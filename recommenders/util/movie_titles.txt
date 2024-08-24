@@ -1,0 +1,3292 @@
+0,Toy Story (1995)
+1,Jumanji (1995)
+2,Grumpier Old Men (1995)
+3,Waiting to Exhale (1995)
+4,Father of the Bride Part II (1995)
+5,Heat (1995)
+6,Sabrina (1995)
+7,Tom and Huck (1995)
+8,Sudden Death (1995)
+9,GoldenEye (1995)
+10,"American President, The (1995)"
+11,Dracula: Dead and Loving It (1995)
+12,Balto (1995)
+13,Nixon (1995)
+14,Cutthroat Island (1995)
+15,Casino (1995)
+16,Sense and Sensibility (1995)
+17,Four Rooms (1995)
+18,Ace Ventura: When Nature Calls (1995)
+19,Money Train (1995)
+20,Get Shorty (1995)
+21,Copycat (1995)
+22,Assassins (1995)
+23,Powder (1995)
+24,Leaving Las Vegas (1995)
+25,Othello (1995)
+26,Now and Then (1995)
+27,Persuasion (1995)
+28,"City of Lost Children, The (1995)"
+29,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+30,Dangerous Minds (1995)
+31,Twelve Monkeys (1995)
+32,Babe (1995)
+33,Carrington (1995)
+34,Dead Man Walking (1995)
+35,It Takes Two (1995)
+36,Clueless (1995)
+37,"Cry, the Beloved Country (1995)"
+38,Richard III (1995)
+39,Dead Presidents (1995)
+40,Restoration (1995)
+41,Mortal Kombat (1995)
+42,To Die For (1995)
+43,How to Make an American Quilt (1995)
+44,Seven (Se7en) (1995)
+45,Pocahontas (1995)
+46,When Night Is Falling (1995)
+47,"Usual Suspects, The (1995)"
+48,Mighty Aphrodite (1995)
+49,Lamerica (1994)
+50,"Big Green, The (1995)"
+51,Georgia (1995)
+52,Kids of the Round Table (1995)
+53,Home for the Holidays (1995)
+54,"Postino, Il (The Postman) (1994)"
+55,"Confessional, The (Le Confessionnal) (1995)"
+56,"Indian in the Cupboard, The (1995)"
+57,Eye for an Eye (1996)
+58,Mr. Holland's Opus (1995)
+59,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+60,Two if by Sea (1996)
+61,Bio-Dome (1996)
+62,Lawnmower Man 2: Beyond Cyberspace (1996)
+63,French Twist (Gazon maudit) (1995)
+64,Friday (1995)
+65,From Dusk Till Dawn (1996)
+66,Fair Game (1995)
+67,Kicking and Screaming (1995)
+68,"Misï¿½rables, Les (1995)"
+69,Bed of Roses (1996)
+70,Big Bully (1996)
+71,Screamers (1995)
+72,Nico Icon (1995)
+73,"Crossing Guard, The (1995)"
+74,"Juror, The (1996)"
+75,"White Balloon, The (Badkonake Sefid ) (1995)"
+76,Things to Do in Denver when You're Dead (1995)
+77,Antonia's Line (Antonia) (1995)
+78,Once Upon a Time... When We Were Colored (1995)
+79,Last Summer in the Hamptons (1995)
+80,Angels and Insects (1995)
+81,White Squall (1996)
+82,Dunston Checks In (1996)
+83,Black Sheep (1996)
+84,Nick of Time (1995)
+85,"Journey of August King, The (1995)"
+86,Mary Reilly (1996)
+87,Vampire in Brooklyn (1995)
+88,Beautiful Girls (1996)
+89,Broken Arrow (1996)
+90,In the Bleak Midwinter (1995)
+91,"Hate (Haine, La) (1995)"
+92,Heidi Fleiss: Hollywood Madam (1995)
+93,City Hall (1996)
+94,Bottle Rocket (1996)
+95,Mr. Wrong (1996)
+96,Unforgettable (1996)
+97,Happy Gilmore (1996)
+98,"Bridges of Madison County, The (1995)"
+99,Nobody Loves Me (Keiner liebt mich) (1994)
+100,Muppet Treasure Island (1996)
+101,Catwalk (1995)
+102,Braveheart (1995)
+103,Taxi Driver (1976)
+104,Rumble in the Bronx (1995)
+105,Before and After (1996)
+106,Margaret's Museum (1995)
+107,Anne Frank Remembered (1995)
+108,"Young Poisoner's Handbook, The (1995)"
+109,If Lucy Fell (1996)
+110,"Steal Big, Steal Little (1995)"
+111,Race the Sun (1996)
+112,"Boys of St. Vincent, The (1993)"
+113,Boomerang (1992)
+114,Chungking Express (1994)
+115,Flirting With Disaster (1996)
+116,"NeverEnding Story III, The (1994)"
+117,Pie in the Sky (1995)
+118,Frankie Starlight (1995)
+119,Jade (1995)
+120,Down Periscope (1996)
+121,From the Journals of Jean Seberg (1995)
+122,"Neon Bible, The (1995)"
+123,Up Close and Personal (1996)
+124,"Birdcage, The (1996)"
+125,"Brothers McMullen, The (1995)"
+126,Bad Boys (1995)
+127,"Amazing Panda Adventure, The (1995)"
+128,"Basketball Diaries, The (1995)"
+129,"Awfully Big Adventure, An (1995)"
+130,Amateur (1994)
+131,Apollo 13 (1995)
+132,Rob Roy (1995)
+133,"Addiction, The (1995)"
+134,Batman Forever (1995)
+135,Belle de jour (1967)
+136,Beyond Rangoon (1995)
+137,Blue in the Face (1995)
+138,Canadian Bacon (1994)
+139,Casper (1995)
+140,Clockers (1995)
+141,Congo (1995)
+142,Crimson Tide (1995)
+143,Crumb (1994)
+144,Desperado (1995)
+145,Devil in a Blue Dress (1995)
+146,Die Hard: With a Vengeance (1995)
+147,"Doom Generation, The (1995)"
+148,Feast of July (1995)
+149,First Knight (1995)
+150,Free Willy 2: The Adventure Home (1995)
+151,Hackers (1995)
+152,Jeffrey (1995)
+153,Johnny Mnemonic (1995)
+154,Judge Dredd (1995)
+155,Jury Duty (1995)
+156,Kids (1995)
+157,Living in Oblivion (1995)
+158,Lord of Illusions (1995)
+159,Love & Human Remains (1993)
+160,Mad Love (1995)
+161,Mallrats (1995)
+162,Mighty Morphin Power Rangers: The Movie (1995)
+163,Moonlight and Valentino (1995)
+164,Mute Witness (1994)
+165,"Net, The (1995)"
+166,Nine Months (1995)
+167,Party Girl (1995)
+168,"Prophecy, The (1995)"
+169,Safe (1995)
+170,"Scarlet Letter, The (1995)"
+171,Showgirls (1995)
+172,Smoke (1995)
+173,Something to Talk About (1995)
+174,Species (1995)
+175,"Stars Fell on Henrietta, The (1995)"
+176,Strange Days (1995)
+177,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)"
+178,Three Wishes (1995)
+179,Total Eclipse (1995)
+180,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)"
+181,Under Siege 2: Dark Territory (1995)
+182,Unstrung Heroes (1995)
+183,Unzipped (1995)
+184,"Walk in the Clouds, A (1995)"
+185,Waterworld (1995)
+186,White Man's Burden (1995)
+187,Wild Bill (1995)
+188,"Browning Version, The (1994)"
+189,Burnt By the Sun (Utomlyonnye solntsem) (1994)
+190,Before the Rain (Pred dozhdot) (1994)
+191,Before Sunrise (1995)
+192,Billy Madison (1995)
+193,"Babysitter, The (1995)"
+194,Boys on the Side (1995)
+195,"Cure, The (1995)"
+196,Castle Freak (1995)
+197,Circle of Friends (1995)
+198,Clerks (1994)
+199,Don Juan DeMarco (1995)
+200,Disclosure (1994)
+201,Drop Zone (1994)
+202,Death and the Maiden (1994)
+203,Dolores Claiborne (1994)
+204,Dumb & Dumber (1994)
+205,Eat Drink Man Woman (1994)
+206,Exotica (1994)
+207,Exit to Eden (1994)
+208,Ed Wood (1994)
+209,French Kiss (1995)
+210,Forget Paris (1995)
+211,Far From Home: The Adventures of Yellow Dog (1995)
+212,"Goofy Movie, A (1995)"
+213,Hideaway (1995)
+214,Fluke (1995)
+215,Farinelli: il castrato (1994)
+216,Gordy (1995)
+217,Hoop Dreams (1994)
+218,Heavenly Creatures (1994)
+219,Houseguest (1994)
+220,Immortal Beloved (1994)
+221,Heavyweights (1994)
+222,"Hunted, The (1995)"
+223,I.Q. (1994)
+224,Interview with the Vampire (1994)
+225,Jefferson in Paris (1995)
+226,"Jerky Boys, The (1994)"
+227,Junior (1994)
+228,Just Cause (1995)
+229,"Kid in King Arthur's Court, A (1995)"
+230,Kiss of Death (1995)
+231,Star Wars: Episode IV - A New Hope (1977)
+232,Little Women (1994)
+233,"Little Princess, A (1995)"
+234,Ladybird Ladybird (1994)
+235,"Enfer, L' (1994)"
+236,Like Water for Chocolate (Como agua para chocolate) (1992)
+237,Legends of the Fall (1994)
+238,Major Payne (1994)
+239,Little Odessa (1994)
+240,My Crazy Life (Mi vida loca) (1993)
+241,Love Affair (1994)
+242,Losing Isaiah (1995)
+243,"Madness of King George, The (1994)"
+244,Mary Shelley's Frankenstein (1994)
+245,Man of the House (1995)
+246,Mixed Nuts (1994)
+247,Milk Money (1994)
+248,Miracle on 34th Street (1994)
+249,Miami Rhapsody (1995)
+250,My Family (1995)
+251,Murder in the First (1995)
+252,Nobody's Fool (1994)
+253,Nell (1994)
+254,New Jersey Drive (1995)
+255,Nina Takes a Lover (1994)
+256,Natural Born Killers (1994)
+257,Only You (1994)
+258,Once Were Warriors (1994)
+259,Poison Ivy II (1995)
+260,Outbreak (1995)
+261,"Professional, The (a.k.a. Leon: The Professional) (1994)"
+262,"Perez Family, The (1995)"
+263,"Pyromaniac's Love Story, A (1995)"
+264,Pulp Fiction (1994)
+265,Panther (1995)
+266,Priest (1994)
+267,Quiz Show (1994)
+268,Picture Bride (1995)
+269,Queen Margot (La Reine Margot) (1994)
+270,"Quick and the Dead, The (1995)"
+271,Ready to Wear (Pret-A-Porter) (1994)
+272,Three Colors: Red (1994)
+273,Three Colors: Blue (1993)
+274,Three Colors: White (1994)
+275,"Red Firecracker, Green Firecracker (1994)"
+276,Stuart Saves His Family (1995)
+277,"Swan Princess, The (1994)"
+278,"Secret of Roan Inish, The (1994)"
+279,"Specialist, The (1994)"
+280,Stargate (1994)
+281,"Santa Clause, The (1994)"
+282,"Shawshank Redemption, The (1994)"
+283,Shallow Grave (1994)
+284,Suture (1993)
+285,Strawberry and Chocolate (Fresa y chocolate) (1993)
+286,Swimming with Sharks (1995)
+287,"Sum of Us, The (1994)"
+288,National Lampoon's Senior Trip (1995)
+289,To Live (Huozhe) (1994)
+290,Tank Girl (1995)
+291,Tales From the Crypt Presents: Demon Knight (1995)
+292,Star Trek: Generations (1994)
+293,Tales from the Hood (1995)
+294,Tom & Viv (1994)
+295,Village of the Damned (1995)
+296,Tommy Boy (1995)
+297,Vanya on 42nd Street (1994)
+298,"Underneath, The (1995)"
+299,"Walking Dead, The (1995)"
+300,What's Eating Gilbert Grape (1993)
+301,Virtuosity (1995)
+302,While You Were Sleeping (1995)
+303,"War, The (1994)"
+304,Double Happiness (1994)
+305,Muriel's Wedding (1994)
+306,"Baby-Sitters Club, The (1995)"
+307,Ace Ventura: Pet Detective (1994)
+308,"Adventures of Priscilla, Queen of the Desert, The (1994)"
+309,Backbeat (1993)
+310,Bitter Moon (1992)
+311,Bullets Over Broadway (1994)
+312,Clear and Present Danger (1994)
+313,"Client, The (1994)"
+314,"Corrina, Corrina (1994)"
+315,Crooklyn (1994)
+316,"Crow, The (1994)"
+317,Cobb (1994)
+318,"Flintstones, The (1994)"
+319,Forrest Gump (1994)
+320,Four Weddings and a Funeral (1994)
+321,Higher Learning (1995)
+322,I Like It Like That (1994)
+323,I Love Trouble (1994)
+324,It Could Happen to You (1994)
+325,"Jungle Book, The (1994)"
+326,"Wonderful, Horrible Life of Leni Riefenstahl, The (Die Macht der Bilder) (1993)"
+327,"Lion King, The (1994)"
+328,Little Buddha (1993)
+329,Wes Craven's New Nightmare (1994)
+330,"Mask, The (1994)"
+331,Maverick (1994)
+332,Mrs. Parker and the Vicious Circle (1994)
+333,Naked Gun 33 1/3: The Final Insult (1994)
+334,"Paper, The (1994)"
+335,Reality Bites (1994)
+336,Red Rock West (1992)
+337,Richie Rich (1994)
+338,Safe Passage (1994)
+339,"River Wild, The (1994)"
+340,Speed (1994)
+341,Speechless (1994)
+342,Timecop (1994)
+343,True Lies (1994)
+344,When a Man Loves a Woman (1994)
+345,Wolf (1994)
+346,Wyatt Earp (1994)
+347,Bad Company (1995)
+348,"Man of No Importance, A (1994)"
+349,S.F.W. (1994)
+350,"Low Down Dirty Shame, A (1994)"
+351,Boys Life (1995)
+352,"Colonel Chabert, Le (1994)"
+353,Faster Pussycat! Kill! Kill! (1965)
+354,Jason's Lyric (1994)
+355,"Secret Adventures of Tom Thumb, The (1993)"
+356,Street Fighter (1994)
+357,"Fear, The (1995)"
+358,Brother Minister: The Assassination of Malcolm X (1994)
+359,Highlander III: The Sorcerer (1994)
+360,In the Mouth of Madness (1995)
+361,8 Seconds (1994)
+362,Above the Rim (1994)
+363,Addams Family Values (1993)
+364,"Age of Innocence, The (1993)"
+365,Airheads (1994)
+366,"Air Up There, The (1994)"
+367,Another Stakeout (1993)
+368,Bad Girls (1994)
+369,Barcelona (1994)
+370,Being Human (1993)
+371,"Beverly Hillbillies, The (1993)"
+372,Beverly Hills Cop III (1994)
+373,Black Beauty (1994)
+374,Blink (1994)
+375,Blown Away (1994)
+376,Blue Chips (1994)
+377,Blue Sky (1994)
+378,Body Snatchers (1993)
+379,Boxing Helena (1993)
+380,"Bronx Tale, A (1993)"
+381,Cabin Boy (1994)
+382,Calendar Girl (1993)
+383,Carlito's Way (1993)
+384,City Slickers II: The Legend of Curly's Gold (1994)
+385,Clean Slate (1994)
+386,Cliffhanger (1993)
+387,Coneheads (1993)
+388,Color of Night (1994)
+389,Cops and Robbersons (1994)
+390,"Cowboy Way, The (1994)"
+391,Dave (1993)
+392,Dazed and Confused (1993)
+393,Demolition Man (1993)
+394,"Endless Summer 2, The (1994)"
+395,Even Cowgirls Get the Blues (1993)
+396,Fatal Instinct (1993)
+397,Farewell My Concubine (1993)
+398,"Favor, The (1994)"
+399,Fearless (1993)
+400,Fear of a Black Hat (1993)
+401,With Honors (1994)
+402,Flesh and Bone (1993)
+403,Widows' Peak (1994)
+404,For Love or Money (1993)
+405,"Firm, The (1993)"
+406,Free Willy (1993)
+407,Fresh (1994)
+408,"Fugitive, The (1993)"
+409,Geronimo: An American Legend (1993)
+410,"Getaway, The (1994)"
+411,Getting Even with Dad (1994)
+412,Go Fish (1994)
+413,"Good Man in Africa, A (1994)"
+414,Guilty as Sin (1993)
+415,Hard Target (1993)
+416,Heaven & Earth (1993)
+417,Hot Shots! Part Deux (1993)
+418,Live Nude Girls (1995)
+419,"Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)"
+420,"House of the Spirits, The (1993)"
+421,House Party 3 (1994)
+422,"Hudsucker Proxy, The (1994)"
+423,I'll Do Anything (1994)
+424,In the Army Now (1994)
+425,In the Line of Fire (1993)
+426,In the Name of the Father (1993)
+427,"Inkwell, The (1994)"
+428,What's Love Got to Do with It? (1993)
+429,Jimmy Hollywood (1994)
+430,Judgment Night (1993)
+431,Jurassic Park (1993)
+432,Kalifornia (1993)
+433,Killing Zoe (1994)
+434,King of the Hill (1993)
+435,Lassie (1994)
+436,Last Action Hero (1993)
+437,Life with Mikey (1993)
+438,Lightning Jack (1994)
+439,M. Butterfly (1993)
+440,Made in America (1993)
+441,Malice (1993)
+442,"Man Without a Face, The (1993)"
+443,Manhattan Murder Mystery (1993)
+444,Menace II Society (1993)
+445,Executive Decision (1996)
+446,In the Realm of the Senses (Ai no corrida) (1976)
+447,What Happened Was... (1994)
+448,Much Ado About Nothing (1993)
+449,Mr. Jones (1993)
+450,Mr. Wonderful (1993)
+451,Mrs. Doubtfire (1993)
+452,Naked (1993)
+453,"Next Karate Kid, The (1994)"
+454,No Escape (1994)
+455,North (1994)
+456,Orlando (1993)
+457,"Perfect World, A (1993)"
+458,Philadelphia (1993)
+459,"Piano, The (1993)"
+460,"Program, The (1993)"
+461,Robert A. Heinlein's The Puppet Masters (1994)
+462,Radioland Murders (1994)
+463,"Ref, The (1994)"
+464,"Remains of the Day, The (1993)"
+465,Renaissance Man (1994)
+466,Rising Sun (1993)
+467,"Road to Wellville, The (1994)"
+468,Robocop 3 (1993)
+469,Robin Hood: Men in Tights (1993)
+470,Romeo Is Bleeding (1993)
+471,Romper Stomper (1992)
+472,Ruby in Paradise (1993)
+473,Rudy (1993)
+474,"Saint of Fort Washington, The (1993)"
+475,"Savage Nights (Nuits fauves, Les) (1992)"
+476,Schindler's List (1993)
+477,"Scout, The (1994)"
+478,Searching for Bobby Fischer (1993)
+479,"Secret Garden, The (1993)"
+480,Serial Mom (1994)
+481,"Shadow, The (1994)"
+482,Shadowlands (1993)
+483,Short Cuts (1993)
+484,"Simple Twist of Fate, A (1994)"
+485,Sirens (1994)
+486,Six Degrees of Separation (1993)
+487,Sleepless in Seattle (1993)
+488,Sliver (1993)
+489,Blade Runner (1982)
+490,Son in Law (1993)
+491,So I Married an Axe Murderer (1993)
+492,Striking Distance (1993)
+493,Super Mario Bros. (1993)
+494,Surviving the Game (1994)
+495,Terminal Velocity (1994)
+496,Thirty-Two Short Films About Glenn Gould (1993)
+497,Threesome (1994)
+498,"Nightmare Before Christmas, The (1993)"
+499,"Three Musketeers, The (1993)"
+500,Tombstone (1993)
+501,Trial by Jury (1994)
+502,True Romance (1993)
+503,"War Room, The (1993)"
+504,Mamma Roma (1962)
+505,"Pagemaster, The (1994)"
+506,"Paris, France (1993)"
+507,Welcome to the Dollhouse (1995)
+508,Germinal (1993)
+509,Chasers (1994)
+510,Cronos (1992)
+511,Naked in New York (1994)
+512,Kika (1993)
+513,Bhaji on the Beach (1993)
+514,Little Big League (1994)
+515,"Slingshot, The (Kï¿½disbellan ) (1993)"
+516,"Wedding Gift, The (1994)"
+517,"Ciao, Professore! (Io speriamo che me la cavo ) (1993)"
+518,Spanking the Monkey (1994)
+519,"Little Rascals, The (1994)"
+520,Andre (1994)
+521,Princess Caraboo (1994)
+522,"Celluloid Closet, The (1995)"
+523,Dear Diary (Caro Diario) (1994)
+524,"Brady Bunch Movie, The (1995)"
+525,Home Alone (1990)
+526,Ghost (1990)
+527,Aladdin (1992)
+528,Terminator 2: Judgment Day (1991)
+529,Dances with Wolves (1990)
+530,Batman (1989)
+531,"Silence of the Lambs, The (1991)"
+532,Snow White and the Seven Dwarfs (1937)
+533,Beauty and the Beast (1991)
+534,Pinocchio (1940)
+535,Pretty Woman (1990)
+536,Window to Paris (1994)
+537,"Wild Bunch, The (1969)"
+538,Love and a .45 (1994)
+539,"Wooden Man's Bride, The (Wu Kui) (1994)"
+540,"Great Day in Harlem, A (1994)"
+541,"Bye Bye, Love (1995)"
+542,One Fine Day (1996)
+543,Candyman: Farewell to the Flesh (1995)
+544,Fargo (1996)
+545,Homeward Bound II: Lost in San Francisco (1996)
+546,Heavy Metal (1981)
+547,Hellraiser: Bloodline (1996)
+548,"Pallbearer, The (1996)"
+549,Jane Eyre (1996)
+550,Loaded (1994)
+551,Bread and Chocolate (Pane e cioccolata) (1973)
+552,"Aristocats, The (1970)"
+553,"Flower of My Secret, The (La Flor de Mi Secreto) (1995)"
+554,Two Much (1996)
+555,Ed (1996)
+556,My Favorite Season (1993)
+557,Condition Red (1995)
+558,"Thin Line Between Love and Hate, A (1996)"
+559,"Last Supper, The (1995)"
+560,Primal Fear (1996)
+561,All Dogs Go to Heaven 2 (1996)
+562,Land and Freedom (Tierra y libertad) (1995)
+563,Denise Calls Up (1995)
+564,"Family Thing, A (1996)"
+565,Sgt. Bilko (1996)
+566,Jack and Sarah (1995)
+567,Girl 6 (1996)
+568,Diabolique (1996)
+569,Happy Weekend (1996)
+570,Nelly & Monsieur Arnaud (1995)
+571,Courage Under Fire (1996)
+572,Mission: Impossible (1996)
+573,Cold Fever (ï¿½ kï¿½ldum klaka) (1994)
+574,Moll Flanders (1996)
+575,"Superweib, Das (1996)"
+576,Dragonheart (1996)
+577,Eddie (1996)
+578,Purple Noon (1960)
+579,James and the Giant Peach (1996)
+580,Fear (1996)
+581,Kids in the Hall: Brain Candy (1996)
+582,Faithful (1996)
+583,Underground (1995)
+584,All Things Fair (1996)
+585,Bloodsport 2 (1995)
+586,Pather Panchali (1955)
+587,Aparajito (1956)
+588,"World of Apu, The (Apur Sansar) (1959)"
+589,Mystery Science Theater 3000: The Movie (1996)
+590,Tarantella (1995)
+591,Space Jam (1996)
+592,Barbarella (1968)
+593,Some Folks Call It a Sling Blade (1993)
+594,Alphaville (1965)
+595,Clean Slate (Coup de Torchon) (1981)
+596,Tigrero: A Film That Was Never Made (1994)
+597,It's My Party (1995)
+598,Country Life (1994)
+599,Operation Dumbo Drop (1995)
+600,Mrs. Winterbourne (1996)
+601,Solo (1996)
+602,"Substitute, The (1996)"
+603,True Crime (1995)
+604,Butterfly Kiss (1995)
+605,Feeling Minnesota (1996)
+606,Delta of Venus (1994)
+607,Angus (1995)
+608,Faces (1968)
+609,"Quest, The (1996)"
+610,Cosi (1996)
+611,Mulholland Falls (1996)
+612,"Truth About Cats & Dogs, The (1996)"
+613,Oliver & Company (1988)
+614,Celtic Pride (1996)
+615,Flipper (1996)
+616,Captives (1994)
+617,Dead Man (1995)
+618,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)"
+619,Switchblade Sisters (1975)
+620,"Visitors, The (Les Visiteurs) (1993)"
+621,Multiplicity (1996)
+622,Wallace & Gromit: The Best of Aardman Animation (1996)
+623,"Craft, The (1996)"
+624,"Great White Hype, The (1996)"
+625,Last Dance (1996)
+626,Cold Comfort Farm (1995)
+627,"Institute Benjamenta, or This Dream People Call Human Life (1995)"
+628,Heaven's Prisoners (1996)
+629,"Rock, The (1996)"
+630,Cemetery Man (Dellamorte Dellamore) (1994)
+631,Twister (1996)
+632,Barb Wire (1996)
+633,Ghost in the Shell (Kokaku kidotai) (1995)
+634,Thinner (1996)
+635,Spy Hard (1996)
+636,Brothers in Trouble (1995)
+637,"Close Shave, A (1995)"
+638,Force of Evil (1948)
+639,"Stupids, The (1996)"
+640,"Arrival, The (1996)"
+641,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)
+642,Careful (1992)
+643,"Month by the Lake, A (1995)"
+644,Gold Diggers: The Secret of Bear Mountain (1995)
+645,Maya Lin: A Strong Clear Vision (1994)
+646,Stalingrad (1993)
+647,"Phantom, The (1996)"
+648,Striptease (1996)
+649,Heavy (1995)
+650,Jack (1996)
+651,I Shot Andy Warhol (1996)
+652,"Vie est belle, La (Life is Rosey) (1987)"
+653,Trainspotting (1996)
+654,'Til There Was You (1997)
+655,Independence Day (ID4) (1996)
+656,Stealing Beauty (1996)
+657,"Fan, The (1996)"
+658,"Hunchback of Notre Dame, The (1996)"
+659,"Cable Guy, The (1996)"
+660,Kingpin (1996)
+661,Eraser (1996)
+662,"Nutty Professor, The (1996)"
+663,An Unforgettable Summer (1994)
+664,"Very Natural Thing, A (1974)"
+665,Daylight (1996)
+666,"Frighteners, The (1996)"
+667,Lone Star (1996)
+668,Harriet the Spy (1996)
+669,Phenomenon (1996)
+670,Walking and Talking (1996)
+671,She's the One (1996)
+672,"Time to Kill, A (1996)"
+673,American Buffalo (1996)
+674,Alaska (1996)
+675,Fled (1996)
+676,Kazaam (1996)
+677,Larger Than Life (1996)
+678,"Very Brady Sequel, A (1996)"
+679,Kaspar Hauser (1993)
+680,"Adventures of Pinocchio, The (1996)"
+681,Joe's Apartment (1996)
+682,"First Wives Club, The (1996)"
+683,Stonewall (1995)
+684,Ransom (1996)
+685,High School High (1996)
+686,Foxfire (1996)
+687,Chain Reaction (1996)
+688,Matilda (1996)
+689,Emma (1996)
+690,"Crow: City of Angels, The (1996)"
+691,House Arrest (1996)
+692,Eyes Without a Face (1959)
+693,Tales from the Crypt Presents: Bordello of Blood (1996)
+694,Flirt (1995)
+695,"Big Squeeze, The (1996)"
+696,"Spitfire Grill, The (1996)"
+697,Escape from L.A. (1996)
+698,Cyclo (1995)
+699,Basquiat (1996)
+700,Tin Cup (1996)
+701,"Ballad of Narayama, The (Narayama Bushiko) (1958)"
+702,"Godfather, The (1972)"
+703,"Hippie Revolution, The (1996)"
+704,"Maybe, Maybe Not (Bewegte Mann, Der) (1994)"
+705,Supercop (1992)
+706,Manny & Lo (1996)
+707,"Wife, The (1995)"
+708,Bound (1996)
+709,Carpool (1996)
+710,Kansas City (1996)
+711,Gone Fishin' (1997)
+712,Killer: A Journal of Murder (1995)
+713,Nothing to Lose (1994)
+714,Girls Town (1996)
+715,"Relic, The (1997)"
+716,"Island of Dr. Moreau, The (1996)"
+717,First Kid (1996)
+718,"Trigger Effect, The (1996)"
+719,Bogus (1996)
+720,Bulletproof (1996)
+721,Talk of Angels (1998)
+722,Land Before Time III: The Time of the Great Giving (1995)
+723,Halloween: The Curse of Michael Myers (1995)
+724,Twelfth Night (1996)
+725,Mother Night (1996)
+726,Wild Reeds (1994)
+727,For Whom the Bell Tolls (1943)
+728,"Philadelphia Story, The (1940)"
+729,Singin' in the Rain (1952)
+730,"American in Paris, An (1951)"
+731,Funny Face (1957)
+732,Breakfast at Tiffany's (1961)
+733,Vertigo (1958)
+734,Rear Window (1954)
+735,It Happened One Night (1934)
+736,Gaslight (1944)
+737,"Gay Divorcee, The (1934)"
+738,North by Northwest (1959)
+739,"Apartment, The (1960)"
+740,Some Like It Hot (1959)
+741,Charade (1963)
+742,Casablanca (1942)
+743,"Maltese Falcon, The (1941)"
+744,My Fair Lady (1964)
+745,Sabrina (1954)
+746,Roman Holiday (1953)
+747,"Little Princess, The (1939)"
+748,Meet Me in St. Louis (1944)
+749,"Wizard of Oz, The (1939)"
+750,Gone with the Wind (1939)
+751,My Favorite Year (1982)
+752,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)
+753,Citizen Kane (1941)
+754,2001: A Space Odyssey (1968)
+755,Golden Earrings (1947)
+756,All About Eve (1950)
+757,"Women, The (1939)"
+758,Rebecca (1940)
+759,Foreign Correspondent (1940)
+760,Notorious (1946)
+761,Spellbound (1945)
+762,"Affair to Remember, An (1957)"
+763,To Catch a Thief (1955)
+764,Father of the Bride (1950)
+765,"Band Wagon, The (1953)"
+766,Ninotchka (1939)
+767,Love in the Afternoon (1957)
+768,Gigi (1958)
+769,"Adventures of Robin Hood, The (1938)"
+770,"Mark of Zorro, The (1940)"
+771,Laura (1944)
+772,"Ghost and Mrs. Muir, The (1947)"
+773,Lost Horizon (1937)
+774,Top Hat (1935)
+775,To Be or Not to Be (1942)
+776,My Man Godfrey (1936)
+777,Giant (1956)
+778,East of Eden (1955)
+779,"Thin Man, The (1934)"
+780,His Girl Friday (1940)
+781,Around the World in 80 Days (1956)
+782,It's a Wonderful Life (1946)
+783,Mr. Smith Goes to Washington (1939)
+784,Bringing Up Baby (1938)
+785,Penny Serenade (1941)
+786,"Scarlet Letter, The (1926)"
+787,Lady of Burlesque (1943)
+788,Of Human Bondage (1934)
+789,Angel on My Shoulder (1946)
+790,Little Lord Fauntleroy (1936)
+791,They Made Me a Criminal (1939)
+792,"Inspector General, The (1949)"
+793,Angel and the Badman (1947)
+794,"39 Steps, The (1935)"
+795,"Walk in the Sun, A (1945)"
+796,"Outlaw, The (1943)"
+797,Night of the Living Dead (1968)
+798,"African Queen, The (1951)"
+799,Beat the Devil (1954)
+800,Cat on a Hot Tin Roof (1958)
+801,Meet John Doe (1941)
+802,Algiers (1938)
+803,"Farewell to Arms, A (1932)"
+804,"Blue Angel, The (Blaue Engel, Der) (1930)"
+805,In the Line of Duty 2 (1987)
+806,Picnic (1955)
+807,"Pompatus of Love, The (1996)"
+808,Small Wonders (1996)
+809,Fly Away Home (1996)
+810,Bliss (1997)
+811,Grace of My Heart (1996)
+812,Maximum Risk (1996)
+813,Michael Collins (1996)
+814,"Rich Man's Wife, The (1996)"
+815,Infinity (1996)
+816,Big Night (1996)
+817,Last Man Standing (1996)
+818,Caught (1996)
+819,Set It Off (1996)
+820,2 Days in the Valley (1996)
+821,Curdled (1996)
+822,Ed's Next Move (1996)
+823,Extreme Measures (1996)
+824,"Glimmer Man, The (1996)"
+825,D3: The Mighty Ducks (1996)
+826,"Chamber, The (1996)"
+827,"Apple Dumpling Gang, The (1975)"
+828,"Davy Crockett, King of the Wild Frontier (1955)"
+829,Escape to Witch Mountain (1975)
+830,"Love Bug, The (1969)"
+831,Herbie Rides Again (1974)
+832,Old Yeller (1957)
+833,"Parent Trap, The (1961)"
+834,Pollyanna (1960)
+835,Homeward Bound: The Incredible Journey (1993)
+836,"Shaggy Dog, The (1959)"
+837,Swiss Family Robinson (1960)
+838,That Darn Cat! (1965)
+839,"20,000 Leagues Under the Sea (1954)"
+840,Cool Runnings (1993)
+841,Angels in the Outfield (1994)
+842,Cinderella (1950)
+843,Winnie the Pooh and the Blustery Day (1968)
+844,"Three Caballeros, The (1945)"
+845,"Sword in the Stone, The (1963)"
+846,Robin Hood: Prince of Thieves (1991)
+847,Mary Poppins (1964)
+848,Dumbo (1941)
+849,Pete's Dragon (1977)
+850,Bedknobs and Broomsticks (1971)
+851,Alice in Wonderland (1951)
+852,"Fox and the Hound, The (1981)"
+853,Freeway (1996)
+854,"Sound of Music, The (1965)"
+855,Die Hard (1988)
+856,"Lawnmower Man, The (1992)"
+857,"Secret Agent, The (1996)"
+858,Secrets & Lies (1996)
+859,That Thing You Do! (1996)
+860,To Gillian on Her 37th Birthday (1996)
+861,Beautiful Thing (1996)
+862,"Long Kiss Goodnight, The (1996)"
+863,"Ghost and the Darkness, The (1996)"
+864,Looking for Richard (1996)
+865,Trees Lounge (1996)
+866,Normal Life (1996)
+867,Get on the Bus (1996)
+868,Shadow Conspiracy (1997)
+869,Jude (1996)
+870,Everyone Says I Love You (1996)
+871,William Shakespeare's Romeo and Juliet (1996)
+872,Swingers (1996)
+873,Sleepers (1996)
+874,Johns (1996)
+875,Aladdin and the King of Thieves (1996)
+876,Shall We Dance? (1937)
+877,"Damsel in Distress, A (1937)"
+878,Crossfire (1947)
+879,"Murder, My Sweet (1944)"
+880,For the Moment (1994)
+881,Willy Wonka and the Chocolate Factory (1971)
+882,"Innocents, The (1961)"
+883,Sleeper (1973)
+884,Bananas (1971)
+885,"Fish Called Wanda, A (1988)"
+886,Monty Python's Life of Brian (1979)
+887,Victor/Victoria (1982)
+888,"Candidate, The (1972)"
+889,"Great Race, The (1965)"
+890,Bonnie and Clyde (1967)
+891,"Old Man and the Sea, The (1958)"
+892,Dial M for Murder (1954)
+893,Madame Butterfly (1995)
+894,Dirty Dancing (1987)
+895,Reservoir Dogs (1992)
+896,Platoon (1986)
+897,Weekend at Bernie's (1989)
+898,Basic Instinct (1992)
+899,"Doors, The (1991)"
+900,"Crying Game, The (1992)"
+901,Glengarry Glen Ross (1992)
+902,Sophie's Choice (1982)
+903,E.T. the Extra-Terrestrial (1982)
+904,"Christmas Carol, A (1938)"
+905,Days of Thunder (1990)
+906,Top Gun (1986)
+907,Rebel Without a Cause (1955)
+908,"Streetcar Named Desire, A (1951)"
+909,Children of the Corn IV: The Gathering (1996)
+910,Loser (1991)
+911,Microcosmos (Microcosmos: Le peuple de l'herbe) (1996)
+912,Palookaville (1996)
+913,"Associate, The (1996)"
+914,"Funeral, The (1996)"
+915,"Single Girl, A (La Fille Seule) (1995)"
+916,Tashunga (1995)
+917,Drunks (1997)
+918,"People vs. Larry Flynt, The (1996)"
+919,"Perfect Candidate, A (1996)"
+920,On Golden Pond (1981)
+921,"Return of the Pink Panther, The (1974)"
+922,Drop Dead Fred (1991)
+923,"Abyss, The (1989)"
+924,"Fog, The (1980)"
+925,Escape from New York (1981)
+926,"Howling, The (1980)"
+927,Jean de Florette (1986)
+928,Manon of the Spring (Manon des sources) (1986)
+929,Private Benjamin (1980)
+930,Monty Python and the Holy Grail (1974)
+931,"Line King: Al Hirschfeld, The (1996)"
+932,Snowriders (1996)
+933,When We Were Kings (1996)
+934,"Wrong Trousers, The (1993)"
+935,"Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)"
+936,Faust (1994)
+937,He Walked by Night (1948)
+938,Raw Deal (1948)
+939,T-Men (1947)
+940,Six of a Kind (1934)
+941,"Tin Drum, The (Blechtrommel, Die) (1979)"
+942,"Ruling Class, The (1972)"
+943,Mina Tannenbaum (1994)
+944,Dear God (1996)
+945,Bad Moon (1996)
+946,Best of the Best 3: No Turning Back (1995)
+947,Bob Roberts (1992)
+948,Cinema Paradiso (1988)
+949,"Cook the Thief His Wife & Her Lover, The (1989)"
+950,Delicatessen (1991)
+951,"Double Life of Veronique, The (La Double Vie de Vï¿½ronique) (1991)"
+952,Enchanted April (1991)
+953,Paths of Glory (1957)
+954,"Grifters, The (1990)"
+955,Hear My Song (1991)
+956,"Shooter, The (1995)"
+957,"English Patient, The (1996)"
+958,Mediterraneo (1991)
+959,My Left Foot (1989)
+960,"Sex, Lies, and Videotape (1989)"
+961,Passion Fish (1992)
+962,Strictly Ballroom (1992)
+963,"Thin Blue Line, The (1988)"
+964,Tie Me Up! Tie Me Down! (1990)
+965,Madonna: Truth or Dare (1991)
+966,Paris Is Burning (1990)
+967,One Flew Over the Cuckoo's Nest (1975)
+968,Up in Smoke (1978)
+969,Star Wars: Episode V - The Empire Strikes Back (1980)
+970,"Princess Bride, The (1987)"
+971,Raiders of the Lost Ark (1981)
+972,Brazil (1985)
+973,Aliens (1986)
+974,"Good, The Bad and The Ugly, The (1966)"
+975,Withnail and I (1987)
+976,12 Angry Men (1957)
+977,Lawrence of Arabia (1962)
+978,"Transformers: The Movie, The (1986)"
+979,"Clockwork Orange, A (1971)"
+980,To Kill a Mockingbird (1962)
+981,Apocalypse Now (1979)
+982,Once Upon a Time in the West (1969)
+983,Star Wars: Episode VI - Return of the Jedi (1983)
+984,Wings of Desire (Der Himmel ï¿½ber Berlin) (1987)
+985,"Third Man, The (1949)"
+986,GoodFellas (1990)
+987,Alien (1979)
+988,Army of Darkness (1993)
+989,"Big Blue, The (Le Grand Bleu) (1988)"
+990,Ran (1985)
+991,"Killer, The (Die xue shuang xiong) (1989)"
+992,Psycho (1960)
+993,"Blues Brothers, The (1980)"
+994,"Godfather: Part II, The (1974)"
+995,Full Metal Jacket (1987)
+996,"Grand Day Out, A (1992)"
+997,Henry V (1989)
+998,Amadeus (1984)
+999,"Quiet Man, The (1952)"
+1000,Once Upon a Time in America (1984)
+1001,Raging Bull (1980)
+1002,Annie Hall (1977)
+1003,"Right Stuff, The (1983)"
+1004,Stalker (1979)
+1005,"Boat, The (Das Boot) (1981)"
+1006,"Sting, The (1973)"
+1007,Harold and Maude (1971)
+1008,Trust (1990)
+1009,"Seventh Seal, The (Sjunde inseglet, Det) (1957)"
+1010,Local Hero (1983)
+1011,"Terminator, The (1984)"
+1012,Braindead (1992)
+1013,Glory (1989)
+1014,Rosencrantz and Guildenstern Are Dead (1990)
+1015,Manhattan (1979)
+1016,Miller's Crossing (1990)
+1017,Dead Poets Society (1989)
+1018,"Graduate, The (1967)"
+1019,Touch of Evil (1958)
+1020,Nikita (La Femme Nikita) (1990)
+1021,"Bridge on the River Kwai, The (1957)"
+1022,8 1/2 (1963)
+1023,Chinatown (1974)
+1024,"Day the Earth Stood Still, The (1951)"
+1025,"Treasure of the Sierra Madre, The (1948)"
+1026,Bad Taste (1987)
+1027,Duck Soup (1933)
+1028,Better Off Dead... (1985)
+1029,"Shining, The (1980)"
+1030,Stand by Me (1986)
+1031,M (1931)
+1032,Evil Dead II (Dead By Dawn) (1987)
+1033,"Great Escape, The (1963)"
+1034,"Deer Hunter, The (1978)"
+1035,Diva (1981)
+1036,Groundhog Day (1993)
+1037,Unforgiven (1992)
+1038,"Manchurian Candidate, The (1962)"
+1039,Pump Up the Volume (1990)
+1040,Arsenic and Old Lace (1944)
+1041,Back to the Future (1985)
+1042,Fried Green Tomatoes (1991)
+1043,Patton (1970)
+1044,Down by Law (1986)
+1045,Akira (1988)
+1046,Highlander (1986)
+1047,Cool Hand Luke (1967)
+1048,Cyrano de Bergerac (1990)
+1049,Young Frankenstein (1974)
+1050,Night on Earth (1991)
+1051,Raise the Red Lantern (1991)
+1052,"Great Dictator, The (1940)"
+1053,Fantasia (1940)
+1054,High Noon (1952)
+1055,"Big Sleep, The (1946)"
+1056,Heathers (1989)
+1057,Somewhere in Time (1980)
+1058,Ben-Hur (1959)
+1059,This Is Spinal Tap (1984)
+1060,Koyaanisqatsi (1983)
+1061,Some Kind of Wonderful (1987)
+1062,Indiana Jones and the Last Crusade (1989)
+1063,Being There (1979)
+1064,Gandhi (1982)
+1065,M*A*S*H (1970)
+1066,"Unbearable Lightness of Being, The (1988)"
+1067,"Room with a View, A (1986)"
+1068,Real Genius (1985)
+1069,Pink Floyd - The Wall (1982)
+1070,"Killing Fields, The (1984)"
+1071,My Life as a Dog (Mitt liv som hund) (1985)
+1072,Forbidden Planet (1956)
+1073,Field of Dreams (1989)
+1074,"Man Who Would Be King, The (1975)"
+1075,Butch Cassidy and the Sundance Kid (1969)
+1076,"Paris, Texas (1984)"
+1077,Until the End of the World (Bis ans Ende der Welt) (1991)
+1078,When Harry Met Sally... (1989)
+1079,Hype! (1996)
+1080,Santa with Muscles (1996)
+1081,Female Perversions (1996)
+1082,I'm Not Rappaport (1996)
+1083,Alienï¿½ (1992)
+1084,"American Werewolf in London, An (1981)"
+1085,Amityville 1992: It's About Time (1992)
+1086,Amityville 3-D (1983)
+1087,Amityville: Dollhouse (1996)
+1088,Amityville: A New Generation (1993)
+1089,Amityville II: The Possession (1982)
+1090,"Amityville Horror, The (1979)"
+1091,"Amityville Curse, The (1990)"
+1092,Blood For Dracula (Andy Warhol's Dracula) (1974)
+1093,April Fool's Day (1986)
+1094,Audrey Rose (1977)
+1095,"Believers, The (1987)"
+1096,"Birds, The (1963)"
+1097,"Blob, The (1958)"
+1098,Blood Beach (1981)
+1099,Body Parts (1991)
+1100,"Body Snatcher, The (1945)"
+1101,Bram Stoker's Dracula (1992)
+1102,Bride of Frankenstein (1935)
+1103,Burnt Offerings (1976)
+1104,Candyman (1992)
+1105,Cape Fear (1991)
+1106,Cape Fear (1962)
+1107,Carrie (1976)
+1108,Cat People (1982)
+1109,"Nightmare on Elm Street, A (1984)"
+1110,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)"
+1111,"Omen, The (1976)"
+1112,Blood & Wine (1997)
+1113,Albino Alligator (1996)
+1114,"Mirror Has Two Faces, The (1996)"
+1115,Breaking the Waves (1996)
+1116,Nightwatch (1997)
+1117,Star Trek: First Contact (1996)
+1118,Shine (1996)
+1119,Sling Blade (1996)
+1120,Jingle All the Way (1996)
+1121,Paradise Lost: The Child Murders at Robin Hood Hills (1996)
+1122,"Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)"
+1123,"Preacher's Wife, The (1996)"
+1124,Ridicule (1996)
+1125,"Crucible, The (1996)"
+1126,101 Dalmatians (1996)
+1127,I Can't Sleep (J'ai pas sommeil) (1994)
+1128,Die Hard 2 (1990)
+1129,Star Trek: The Motion Picture (1979)
+1130,Star Trek VI: The Undiscovered Country (1991)
+1131,Star Trek V: The Final Frontier (1989)
+1132,Star Trek: The Wrath of Khan (1982)
+1133,Star Trek III: The Search for Spock (1984)
+1134,Star Trek IV: The Voyage Home (1986)
+1135,Batman Returns (1992)
+1136,Young Guns (1988)
+1137,Young Guns II (1990)
+1138,Grease (1978)
+1139,Grease 2 (1982)
+1140,Marked for Death (1990)
+1141,Adrenalin: Fear the Rush (1996)
+1142,Under Siege (1992)
+1143,Jaws (1975)
+1144,Jaws 2 (1978)
+1145,Jaws 3-D (1983)
+1146,My Fellow Americans (1996)
+1147,Mars Attacks! (1996)
+1148,Citizen Ruth (1996)
+1149,Jerry Maguire (1996)
+1150,Raising Arizona (1987)
+1151,Tin Men (1987)
+1152,Sneakers (1992)
+1153,Bastard Out of Carolina (1996)
+1154,In Love and War (1996)
+1155,Marvin's Room (1996)
+1156,Ghosts of Mississippi (1996)
+1157,Night Falls on Manhattan (1997)
+1158,Beavis and Butt-head Do America (1996)
+1159,"Cï¿½rï¿½monie, La (1995)"
+1160,Scream (1996)
+1161,"Last of the Mohicans, The (1992)"
+1162,Michael (1996)
+1163,"Evening Star, The (1996)"
+1164,Hamlet (1996)
+1165,Some Mother's Son (1996)
+1166,"Whole Wide World, The (1996)"
+1167,Mother (1996)
+1168,"Thieves (Voleurs, Les) (1996)"
+1169,Evita (1996)
+1170,"Portrait of a Lady, The (1996)"
+1171,Walkabout (1971)
+1172,Grateful Dead (1995)
+1173,Murder at 1600 (1997)
+1174,Hearts and Minds (1996)
+1175,Fierce Creatures (1997)
+1176,Zeus and Roxanne (1997)
+1177,Angel Baby (1995)
+1178,Jackie Chan's First Strike (1996)
+1179,Beverly Hills Ninja (1997)
+1180,Metro (1997)
+1181,"Machine, The (1994)"
+1182,Falling in Love Again (1980)
+1183,"Cement Garden, The (1993)"
+1184,Dante's Peak (1997)
+1185,Meet Wally Sparks (1997)
+1186,Amos & Andrew (1993)
+1187,Benny & Joon (1993)
+1188,Prefontaine (1997)
+1189,McHale's Navy (1997)
+1190,Kolya (1996)
+1191,Gridlock'd (1997)
+1192,Waiting for Guffman (1996)
+1193,Prisoner of the Mountains (Kavkazsky Plennik) (1996)
+1194,"Beautician and the Beast, The (1997)"
+1195,SubUrbia (1997)
+1196,Hotel de Love (1996)
+1197,"Pest, The (1997)"
+1198,Fools Rush In (1997)
+1199,Touch (1997)
+1200,Absolute Power (1997)
+1201,That Darn Cat! (1997)
+1202,Vegas Vacation (1997)
+1203,That Old Feeling (1997)
+1204,Lost Highway (1997)
+1205,Rosewood (1997)
+1206,Donnie Brasco (1997)
+1207,Booty Call (1997)
+1208,City of Industry (1997)
+1209,Best Men (1997)
+1210,Jungle2Jungle (a.k.a. Jungle 2 Jungle) (1997)
+1211,Kama Sutra: A Tale of Love (1996)
+1212,Private Parts (1997)
+1213,"Saint, The (1997)"
+1214,Smilla's Sense of Snow (1997)
+1215,"Van, The (1996)"
+1216,Crash (1996)
+1217,"Daytrippers, The (1996)"
+1218,Liar Liar (1997)
+1219,Selena (1997)
+1220,"Devil's Own, The (1997)"
+1221,Cats Don't Dance (1997)
+1222,B*A*P*S (1997)
+1223,"Sixth Man, The (1997)"
+1224,Turbo: A Power Rangers Movie (1997)
+1225,Anna Karenina (1997)
+1226,Double Team (1997)
+1227,Inventing the Abbotts (1997)
+1228,Anaconda (1997)
+1229,Grosse Pointe Blank (1997)
+1230,Keys to Tulsa (1997)
+1231,Kissed (1996)
+1232,8 Heads in a Duffel Bag (1997)
+1233,Hollow Reed (1996)
+1234,Paradise Road (1997)
+1235,Traveller (1997)
+1236,All Over Me (1997)
+1237,A Chef in Love (1996)
+1238,Romy and Michele's High School Reunion (1997)
+1239,Temptress Moon (Feng Yue) (1996)
+1240,Volcano (1997)
+1241,Children of the Revolution (1996)
+1242,Austin Powers: International Man of Mystery (1997)
+1243,Breakdown (1997)
+1244,Broken English (1996)
+1245,"Truth or Consequences, N.M. (1997)"
+1246,Warriors of Virtue (1997)
+1247,Fathers' Day (1997)
+1248,"Fifth Element, The (1997)"
+1249,Nowhere (1997)
+1250,Sprung (1997)
+1251,"Promise, The (La Promesse) (1996)"
+1252,Love! Valour! Compassion! (1997)
+1253,Shall We Dance? (Shall We Dansu?) (1996)
+1254,"Second Jungle Book: Mowgli & Baloo, The (1997)"
+1255,Addicted to Love (1997)
+1256,Brassed Off (1996)
+1257,"Designated Mourner, The (1997)"
+1258,"Lost World: Jurassic Park, The (1997)"
+1259,Ponette (1996)
+1260,Schizopolis (1996)
+1261,Shiloh (1997)
+1262,Rough Magic (1995)
+1263,Trial and Error (1997)
+1264,Buddy (1997)
+1265,Con Air (1997)
+1266,Late Bloomers (1996)
+1267,"Pillow Book, The (1995)"
+1268,Speed 2: Cruise Control (1997)
+1269,Sudden Manhattan (1996)
+1270,Wedding Bell Blues (1996)
+1271,Batman & Robin (1997)
+1272,Dream With the Fishes (1997)
+1273,Roseanna's Grave (For Roseanna) (1997)
+1274,Head Above Water (1996)
+1275,Hercules (1997)
+1276,My Best Friend's Wedding (1997)
+1277,Tetsuo II: Body Hammer (1992)
+1278,When the Cats Away (Chacun cherche son chat) (1996)
+1279,Contempt (Le Mï¿½pris) (1963)
+1280,Face/Off (1997)
+1281,Fall (1997)
+1282,Gabbeh (1996)
+1283,Men in Black (1997)
+1284,Out to Sea (1997)
+1285,Wild America (1997)
+1286,"Simple Wish, A (1997)"
+1287,Contact (1997)
+1288,Love Serenade (1996)
+1289,G.I. Jane (1997)
+1290,Conan the Barbarian (1982)
+1291,George of the Jungle (1997)
+1292,Cop Land (1997)
+1293,Event Horizon (1997)
+1294,Spawn (1997)
+1295,Air Bud (1997)
+1296,Picture Perfect (1997)
+1297,In the Company of Men (1997)
+1298,Free Willy 3: The Rescue (1997)
+1299,Career Girls (1997)
+1300,Conspiracy Theory (1997)
+1301,Desperate Measures (1998)
+1302,Steel (1997)
+1303,She's So Lovely (1997)
+1304,Hoodlum (1997)
+1305,Leave It to Beaver (1997)
+1306,Mimic (1997)
+1307,Money Talks (1997)
+1308,Excess Baggage (1997)
+1309,Kull the Conqueror (1997)
+1310,Air Force One (1997)
+1311,187 (1997)
+1312,"Hunt for Red October, The (1990)"
+1313,My Own Private Idaho (1991)
+1314,"Kiss Me, Guido (1997)"
+1315,Star Maps (1997)
+1316,In & Out (1997)
+1317,"Edge, The (1997)"
+1318,"Peacemaker, The (1997)"
+1319,L.A. Confidential (1997)
+1320,Seven Years in Tibet (1997)
+1321,Kiss the Girls (1997)
+1322,Soul Food (1997)
+1323,Kicked in the Head (1997)
+1324,Wishmaster (1997)
+1325,"Game, The (1997)"
+1326,Fire Down Below (1997)
+1327,U Turn (1997)
+1328,"MatchMaker, The (1997)"
+1329,"Assignment, The (1997)"
+1330,"Smile Like Yours, A (1997)"
+1331,Ulee's Gold (1997)
+1332,"Ice Storm, The (1997)"
+1333,Chasing Amy (1997)
+1334,How to Be a Player (1997)
+1335,"Full Monty, The (1997)"
+1336,Indian Summer (a.k.a. Alive & Kicking) (1996)
+1337,"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)"
+1338,I Know What You Did Last Summer (1997)
+1339,"Devil's Advocate, The (1997)"
+1340,Rocket Man (1997)
+1341,Playing God (1997)
+1342,"House of Yes, The (1997)"
+1343,"Fast, Cheap & Out of Control (1997)"
+1344,Washington Square (1997)
+1345,Telling Lies in America (1997)
+1346,Gattaca (1997)
+1347,FairyTale: A True Story (1997)
+1348,Phantoms (1998)
+1349,Swept from the Sea (1997)
+1350,"Life Less Ordinary, A (1997)"
+1351,Hurricane Streets (1998)
+1352,Eve's Bayou (1997)
+1353,Switchback (1997)
+1354,Gang Related (1997)
+1355,Stripes (1981)
+1356,Nï¿½nette et Boni (1996)
+1357,Bean (1997)
+1358,Hugo Pool (1997)
+1359,Mad City (1997)
+1360,One Night Stand (1997)
+1361,"Tango Lesson, The (1997)"
+1362,Welcome To Sarajevo (1997)
+1363,"Rainmaker, The (1997)"
+1364,Boogie Nights (1997)
+1365,Witness (1985)
+1366,Incognito (1997)
+1367,Starship Troopers (1997)
+1368,Critical Care (1997)
+1369,"Joy Luck Club, The (1993)"
+1370,Chairman of the Board (1998)
+1371,Sliding Doors (1998)
+1372,Mortal Kombat: Annihilation (1997)
+1373,"Truman Show, The (1998)"
+1374,"Wings of the Dove, The (1997)"
+1375,Mrs. Dalloway (1997)
+1376,Red Corner (1997)
+1377,"Jackal, The (1997)"
+1378,Anastasia (1997)
+1379,"Man Who Knew Too Little, The (1997)"
+1380,Alien: Resurrection (1997)
+1381,Alien Escape (1995)
+1382,Amistad (1997)
+1383,"Apostle, The (1997)"
+1384,Bent (1997)
+1385,"Butcher Boy, The (1998)"
+1386,Deconstructing Harry (1997)
+1387,Flubber (1997)
+1388,For Richer or Poorer (1997)
+1389,Good Will Hunting (1997)
+1390,Home Alone 3 (1997)
+1391,Midnight in the Garden of Good and Evil (1997)
+1392,Mouse Hunt (1997)
+1393,Scream 2 (1997)
+1394,Stranger in the House (1997)
+1395,"Sweet Hereafter, The (1997)"
+1396,Time Tracers (1995)
+1397,Titanic (1997)
+1398,Tomorrow Never Dies (1997)
+1399,"Education of Little Tree, The (1997)"
+1400,"Postman, The (1997)"
+1401,"Horse Whisperer, The (1998)"
+1402,"Winter Guest, The (1997)"
+1403,Jackie Brown (1997)
+1404,Kundun (1997)
+1405,Mr. Magoo (1997)
+1406,"Big Lebowski, The (1998)"
+1407,Afterglow (1997)
+1408,My Life in Pink (Ma vie en rose) (1997)
+1409,Great Expectations (1998)
+1410,3 Ninjas: High Noon On Mega Mountain (1998)
+1411,Arguing the World (1996)
+1412,Firestorm (1998)
+1413,Senseless (1998)
+1414,Wag the Dog (1997)
+1415,Dark City (1998)
+1416,Star Kid (1997)
+1417,Hard Rain (1998)
+1418,Half Baked (1998)
+1419,Fallen (1998)
+1420,Shooting Fish (1997)
+1421,"Prophecy II, The (1998)"
+1422,Dangerous Beauty (1998)
+1423,Four Days in September (1997)
+1424,Spice World (1997)
+1425,Deep Rising (1998)
+1426,Tainted (1998)
+1427,Music From Another Room (1998)
+1428,"Replacement Killers, The (1998)"
+1429,B. Monkey (1998)
+1430,Night Flier (1997)
+1431,Blues Brothers 2000 (1998)
+1432,Tokyo Fist (1995)
+1433,"Wedding Singer, The (1998)"
+1434,Sphere (1998)
+1435,Ayn Rand: A Sense of Life (1997)
+1436,Little City (1998)
+1437,Palmetto (1998)
+1438,As Good As It Gets (1997)
+1439,King of New York (1990)
+1440,Men With Guns (1997)
+1441,Twilight (1998)
+1442,U.S. Marshalls (1998)
+1443,Welcome to Woop-Woop (1997)
+1444,Love and Death on Long Island (1997)
+1445,Everest (1998)
+1446,Hush (1998)
+1447,Suicide Kings (1997)
+1448,"Man in the Iron Mask, The (1998)"
+1449,"Newton Boys, The (1998)"
+1450,Wild Things (1998)
+1451,Paulie (1998)
+1452,Hana-bi (1997)
+1453,Primary Colors (1998)
+1454,"Niagara, Niagara (1997)"
+1455,Wide Awake (1998)
+1456,"Price Above Rubies, A (1998)"
+1457,Two Girls and a Guy (1997)
+1458,No Looking Back (1998)
+1459,"Object of My Affection, The (1998)"
+1460,Meet the Deedles (1998)
+1461,Homegrown (1998)
+1462,"Player's Club, The (1998)"
+1463,Barney's Great Adventure (1998)
+1464,"Big One, The (1997)"
+1465,Chinese Box (1997)
+1466,Lost in Space (1998)
+1467,Mercury Rising (1998)
+1468,"Spanish Prisoner, The (1997)"
+1469,City of Angels (1998)
+1470,"Last Days of Disco, The (1998)"
+1471,"Odd Couple II, The (1998)"
+1472,My Giant (1998)
+1473,He Got Game (1998)
+1474,"Gingerbread Man, The (1998)"
+1475,Illtown (1996)
+1476,Live Flesh (1997)
+1477,Zero Effect (1998)
+1478,Nil By Mouth (1997)
+1479,"Borrowers, The (1997)"
+1480,Prince Valiant (1997)
+1481,"I Love You, Don't Touch Me! (1998)"
+1482,"Alan Smithee Film: Burn Hollywood Burn, An (1997)"
+1483,Kissing a Fool (1998)
+1484,Krippendorf's Tribe (1998)
+1485,Kurt & Courtney (1998)
+1486,"Real Blonde, The (1997)"
+1487,Mr. Nice Guy (1997)
+1488,Taste of Cherry (1997)
+1489,Character (Karakter) (1997)
+1490,Species II (1998)
+1491,Major League: Back to the Minors (1998)
+1492,Wild Man Blues (1998)
+1493,"Big Hit, The (1998)"
+1494,Tarzan and the Lost City (1998)
+1495,Black Dog (1998)
+1496,"Dancer, Texas Pop. 81 (1998)"
+1497,"Friend of the Deceased, A (1997)"
+1498,Go Now (1995)
+1499,"Misï¿½rables, Les (1998)"
+1500,Still Breathing (1997)
+1501,Clockwatchers (1997)
+1502,Deep Impact (1998)
+1503,Woo (1998)
+1504,"Hanging Garden, The (1997)"
+1505,Lawn Dogs (1997)
+1506,Quest for Camelot (1998)
+1507,Godzilla (1998)
+1508,Bulworth (1998)
+1509,Fear and Loathing in Las Vegas (1998)
+1510,"Opposite of Sex, The (1998)"
+1511,Almost Heroes (1998)
+1512,Hope Floats (1998)
+1513,"Perfect Murder, A (1998)"
+1514,Beyond Silence (1996)
+1515,Six Days Seven Nights (1998)
+1516,Can't Hardly Wait (1998)
+1517,Cousin Bette (1998)
+1518,High Art (1998)
+1519,"Land Girls, The (1998)"
+1520,Passion in the Desert (1998)
+1521,"Children of Heaven, The (Bacheha-Ye Aseman) (1997)"
+1522,Dream for an Insomniac (1996)
+1523,Henry Fool (1997)
+1524,Mr. Jealousy (1997)
+1525,Mulan (1998)
+1526,Resurrection Man (1998)
+1527,"X-Files: Fight the Future, The (1998)"
+1528,I Went Down (1997)
+1529,Doctor Dolittle (1998)
+1530,Out of Sight (1998)
+1531,Picnic at Hanging Rock (1975)
+1532,Smoke Signals (1998)
+1533,Buffalo 66 (1998)
+1534,Armageddon (1998)
+1535,Lethal Weapon 4 (1998)
+1536,Madeline (1998)
+1537,Small Soldiers (1998)
+1538,Pi (1998)
+1539,Whatever (1998)
+1540,There's Something About Mary (1998)
+1541,Plan 9 from Outer Space (1958)
+1542,Wings (1927)
+1543,"Broadway Melody, The (1929)"
+1544,All Quiet on the Western Front (1930)
+1545,Cimarron (1931)
+1546,Grand Hotel (1932)
+1547,Cavalcade (1933)
+1548,Mutiny on the Bounty (1935)
+1549,"Great Ziegfeld, The (1936)"
+1550,"Life of ï¿½mile Zola, The (1937)"
+1551,You Can't Take It With You (1938)
+1552,How Green Was My Valley (1941)
+1553,Mrs. Miniver (1942)
+1554,Going My Way (1944)
+1555,"Lost Weekend, The (1945)"
+1556,"Best Years of Our Lives, The (1946)"
+1557,Gentleman's Agreement (1947)
+1558,Hamlet (1948)
+1559,All the King's Men (1949)
+1560,"Greatest Show on Earth, The (1952)"
+1561,From Here to Eternity (1953)
+1562,On the Waterfront (1954)
+1563,Marty (1955)
+1564,West Side Story (1961)
+1565,Tom Jones (1963)
+1566,"Man for All Seasons, A (1966)"
+1567,In the Heat of the Night (1967)
+1568,Oliver! (1968)
+1569,Midnight Cowboy (1969)
+1570,"French Connection, The (1971)"
+1571,Rocky (1976)
+1572,Kramer Vs. Kramer (1979)
+1573,Ordinary People (1980)
+1574,Chariots of Fire (1981)
+1575,Terms of Endearment (1983)
+1576,Out of Africa (1985)
+1577,"Last Emperor, The (1987)"
+1578,Rain Man (1988)
+1579,Driving Miss Daisy (1989)
+1580,Take the Money and Run (1969)
+1581,Klute (1971)
+1582,Repo Man (1984)
+1583,Metropolitan (1990)
+1584,Labyrinth (1986)
+1585,"Breakfast Club, The (1985)"
+1586,"Nightmare on Elm Street Part 2: Freddy's Revenge, A (1985)"
+1587,"Nightmare on Elm Street 3: Dream Warriors, A (1987)"
+1588,"Nightmare on Elm Street 4: The Dream Master, A (1988)"
+1589,"Nightmare on Elm Street 5: The Dream Child, A (1989)"
+1590,Freddy's Dead: The Final Nightmare (1991)
+1591,Friday the 13th (1980)
+1592,Friday the 13th Part 2 (1981)
+1593,Friday the 13th Part 3: 3D (1982)
+1594,Friday the 13th: The Final Chapter (1984)
+1595,Friday the 13th Part V: A New Beginning (1985)
+1596,Friday the 13th Part VI: Jason Lives (1986)
+1597,Friday the 13th Part VII: The New Blood (1988)
+1598,Friday the 13th Part VIII: Jason Takes Manhattan (1989)
+1599,Halloween (1978)
+1600,Halloween II (1981)
+1601,Halloween III: Season of the Witch (1983)
+1602,Halloween 4: The Return of Michael Myers (1988)
+1603,Halloween 5: The Revenge of Michael Myers (1989)
+1604,Prom Night (1980)
+1605,Hello Mary Lou: Prom Night II (1987)
+1606,Prom Night IV: Deliver Us From Evil (1992)
+1607,Child's Play (1988)
+1608,Child's Play 2 (1990)
+1609,Child's Play 3 (1992)
+1610,Poltergeist (1982)
+1611,Poltergeist II: The Other Side (1986)
+1612,Poltergeist III (1988)
+1613,"Exorcist, The (1973)"
+1614,Exorcist II: The Heretic (1977)
+1615,"Exorcist III, The (1990)"
+1616,Lethal Weapon (1987)
+1617,Lethal Weapon 2 (1989)
+1618,Lethal Weapon 3 (1992)
+1619,Gremlins (1984)
+1620,Gremlins 2: The New Batch (1990)
+1621,"Goonies, The (1985)"
+1622,"Mask of Zorro, The (1998)"
+1623,Polish Wedding (1998)
+1624,Soylent Green (1973)
+1625,Metropolis (1926)
+1626,Back to the Future Part II (1989)
+1627,Back to the Future Part III (1990)
+1628,"Poseidon Adventure, The (1972)"
+1629,Freaky Friday (1977)
+1630,"Absent Minded Professor, The (1961)"
+1631,"Apple Dumpling Gang Rides Again, The (1979)"
+1632,Babes in Toyland (1961)
+1633,Bambi (1942)
+1634,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954)
+1635,Dangerous Liaisons (1988)
+1636,Dune (1984)
+1637,"Last Temptation of Christ, The (1988)"
+1638,"Godfather: Part III, The (1990)"
+1639,"Rapture, The (1991)"
+1640,Lolita (1997)
+1641,Disturbing Behavior (1998)
+1642,Mafia! (1998)
+1643,Saving Private Ryan (1998)
+1644,Billy's Hollywood Screen Kiss (1997)
+1645,"Barefoot Executive, The (1971)"
+1646,"Black Cauldron, The (1985)"
+1647,"Black Hole, The (1979)"
+1648,Blackbeard's Ghost (1968)
+1649,Blank Check (1994)
+1650,Candleshoe (1977)
+1651,"Cat from Outer Space, The (1978)"
+1652,"Computer Wore Tennis Shoes, The (1970)"
+1653,Condorman (1981)
+1654,D2: The Mighty Ducks (1994)
+1655,Darby O'Gill and the Little People (1959)
+1656,"Devil and Max Devlin, The (1981)"
+1657,"Far Off Place, A (1993)"
+1658,Flight of the Navigator (1986)
+1659,"Gnome-Mobile, The (1967)"
+1660,"Great Mouse Detective, The (1986)"
+1661,"Happiest Millionaire, The (1967)"
+1662,Herbie Goes Bananas (1980)
+1663,Herbie Goes to Monte Carlo (1977)
+1664,Hocus Pocus (1993)
+1665,"Honey, I Blew Up the Kid (1992)"
+1666,"Honey, I Shrunk the Kids (1989)"
+1667,Hot Lead and Cold Feet (1978)
+1668,In Search of the Castaways (1962)
+1669,"Incredible Journey, The (1963)"
+1670,"Negotiator, The (1998)"
+1671,"Parent Trap, The (1998)"
+1672,BASEketball (1998)
+1673,Full Tilt Boogie (1997)
+1674,"Governess, The (1998)"
+1675,Seventh Heaven (Le Septiï¿½me ciel) (1997)
+1676,Roger & Me (1989)
+1677,"Purple Rose of Cairo, The (1985)"
+1678,Out of the Past (1947)
+1679,Doctor Zhivago (1965)
+1680,Fanny and Alexander (1982)
+1681,"Trip to Bountiful, The (1985)"
+1682,Tender Mercies (1983)
+1683,And the Band Played On (1993)
+1684,"'burbs, The (1989)"
+1685,Fandango (1985)
+1686,"Night Porter, The (Il Portiere di notte) (1974)"
+1687,Mephisto (1981)
+1688,Blue Velvet (1986)
+1689,"Journey of Natty Gann, The (1985)"
+1690,"Jungle Book, The (1967)"
+1691,Lady and the Tramp (1955)
+1692,"Little Mermaid, The (1989)"
+1693,"Mighty Ducks, The (1992)"
+1694,"Muppet Christmas Carol, The (1992)"
+1695,Newsies (1992)
+1696,101 Dalmatians (1961)
+1697,Peter Pan (1953)
+1698,Popeye (1980)
+1699,"Rescuers Down Under, The (1990)"
+1700,"Rescuers, The (1977)"
+1701,Return from Witch Mountain (1978)
+1702,"Return of Jafar, The (1993)"
+1703,Return to Oz (1985)
+1704,"Rocketeer, The (1991)"
+1705,"Shaggy D.A., The (1976)"
+1706,Sleeping Beauty (1959)
+1707,Something Wicked This Way Comes (1983)
+1708,Son of Flubber (1963)
+1709,Song of the South (1946)
+1710,Splash (1984)
+1711,Steamboat Willie (1940)
+1712,Tall Tale (1994)
+1713,Tex (1982)
+1714,Tron (1982)
+1715,Swing Kids (1993)
+1716,Halloween: H20 (1998)
+1717,L.A. Story (1991)
+1718,"Jerk, The (1979)"
+1719,Dead Men Don't Wear Plaid (1982)
+1720,"Man with Two Brains, The (1983)"
+1721,Grand Canyon (1991)
+1722,Graveyard Shift (1990)
+1723,"Outsiders, The (1983)"
+1724,Indiana Jones and the Temple of Doom (1984)
+1725,"Lord of the Rings, The (1978)"
+1726,Nineteen Eighty-Four (1984)
+1727,"Dead Zone, The (1983)"
+1728,Maximum Overdrive (1986)
+1729,Needful Things (1993)
+1730,Cujo (1983)
+1731,Children of the Corn (1984)
+1732,All Dogs Go to Heaven (1989)
+1733,"Addams Family, The (1991)"
+1734,Ever After: A Cinderella Story (1998)
+1735,Snake Eyes (1998)
+1736,"First Love, Last Rites (1997)"
+1737,Safe Men (1998)
+1738,Atlantic City (1980)
+1739,Autumn Sonata (Hï¿½stsonaten ) (1978)
+1740,Who's Afraid of Virginia Woolf? (1966)
+1741,Adventures in Babysitting (1987)
+1742,Weird Science (1985)
+1743,Doctor Dolittle (1967)
+1744,"Nutty Professor, The (1963)"
+1745,Charlotte's Web (1973)
+1746,Watership Down (1978)
+1747,"Secret of NIMH, The (1982)"
+1748,"Dark Crystal, The (1982)"
+1749,"American Tail, An (1986)"
+1750,"American Tail: Fievel Goes West, An (1991)"
+1751,Legend (1985)
+1752,Sixteen Candles (1984)
+1753,Pretty in Pink (1986)
+1754,St. Elmo's Fire (1985)
+1755,"Clan of the Cave Bear, The (1986)"
+1756,House (1986)
+1757,House II: The Second Story (1987)
+1758,"Gods Must Be Crazy, The (1980)"
+1759,"Gods Must Be Crazy II, The (1989)"
+1760,Air Bud: Golden Receiver (1998)
+1761,"Avengers, The (1998)"
+1762,How Stella Got Her Groove Back (1998)
+1763,"Slums of Beverly Hills, The (1998)"
+1764,"Chambermaid on the Titanic, The (1998)"
+1765,"Henry: Portrait of a Serial Killer, Part 2 (1996)"
+1766,Henry: Portrait of a Serial Killer (1990)
+1767,Rosemary's Baby (1968)
+1768,"NeverEnding Story, The (1984)"
+1769,"NeverEnding Story II: The Next Chapter, The (1990)"
+1770,Attack of the Killer Tomatoes! (1980)
+1771,Surf Nazis Must Die (1987)
+1772,Your Friends and Neighbors (1998)
+1773,Return to Paradise (1998)
+1774,Blade (1998)
+1775,Dance with Me (1998)
+1776,Dead Man on Campus (1998)
+1777,Wrongfully Accused (1998)
+1778,"Next Stop, Wonderland (1998)"
+1779,"Navigator: A Mediaeval Odyssey, The (1988)"
+1780,Beetlejuice (1988)
+1781,Dï¿½jï¿½ Vu (1997)
+1782,Rope (1948)
+1783,Family Plot (1976)
+1784,Frenzy (1972)
+1785,Topaz (1969)
+1786,Torn Curtain (1966)
+1787,Marnie (1964)
+1788,"Wrong Man, The (1956)"
+1789,"Man Who Knew Too Much, The (1956)"
+1790,"Trouble with Harry, The (1955)"
+1791,I Confess (1953)
+1792,Strangers on a Train (1951)
+1793,Stage Fright (1950)
+1794,54 (1998)
+1795,I Married A Strange Person (1997)
+1796,Why Do Fools Fall In Love? (1998)
+1797,Willow (1988)
+1798,"Untouchables, The (1987)"
+1799,Dirty Work (1998)
+1800,Knock Off (1998)
+1801,Firelight (1997)
+1802,Under Capricorn (1949)
+1803,"Paradine Case, The (1947)"
+1804,Lifeboat (1944)
+1805,Shadow of a Doubt (1943)
+1806,Saboteur (1942)
+1807,Mr. & Mrs. Smith (1941)
+1808,Suspicion (1941)
+1809,"Lady Vanishes, The (1938)"
+1810,Young and Innocent (1937)
+1811,Sabotage (1936)
+1812,Secret Agent (1936)
+1813,"Man Who Knew Too Much, The (1934)"
+1814,Rich and Strange (1932)
+1815,Blackmail (1929)
+1816,Rounders (1998)
+1817,Cube (1997)
+1818,Digging to China (1998)
+1819,Simon Birch (1998)
+1820,Without Limits (1998)
+1821,Seven Beauties (Pasqualino Settebellezze) (1976)
+1822,Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto) (1975)
+1823,My Bodyguard (1980)
+1824,Class (1983)
+1825,Broadcast News (1987)
+1826,Working Girl (1988)
+1827,Stars and Bars (1988)
+1828,Married to the Mob (1988)
+1829,Say Anything... (1989)
+1830,My Blue Heaven (1990)
+1831,Men Don't Leave (1990)
+1832,Hero (1992)
+1833,Toys (1992)
+1834,Young Doctors in Love (1982)
+1835,Parasite (1982)
+1836,Blame It on Rio (1984)
+1837,Wisdom (1986)
+1838,One Crazy Summer (1986)
+1839,About Last Night... (1986)
+1840,"Seventh Sign, The (1988)"
+1841,We're No Angels (1989)
+1842,Nothing But Trouble (1991)
+1843,"Butcher's Wife, The (1991)"
+1844,Mortal Thoughts (1991)
+1845,"Few Good Men, A (1992)"
+1846,Indecent Proposal (1993)
+1847,Permanent Midnight (1998)
+1848,One True Thing (1998)
+1849,Rush Hour (1998)
+1850,Six-String Samurai (1998)
+1851,"Soldier's Daughter Never Cries, A (1998)"
+1852,Ronin (1998)
+1853,Urban Legend (1998)
+1854,Clay Pigeons (1998)
+1855,Pecker (1998)
+1856,"Sheltering Sky, The (1990)"
+1857,Bandit Queen (1994)
+1858,If.... (1968)
+1859,"Fiendish Plot of Dr. Fu Manchu, The (1980)"
+1860,Them! (1954)
+1861,"Thing, The (1982)"
+1862,"Player, The (1992)"
+1863,Stardust Memories (1980)
+1864,Edward Scissorhands (1990)
+1865,Overnight Delivery (1996)
+1866,Shadrach (1998)
+1867,Antz (1998)
+1868,"Impostors, The (1998)"
+1869,"Night at the Roxbury, A (1998)"
+1870,What Dreams May Come (1998)
+1871,Strangeland (1998)
+1872,"Producers, The (1968)"
+1873,History of the World: Part I (1981)
+1874,My Cousin Vinny (1992)
+1875,Nashville (1975)
+1876,Slam (1998)
+1877,Holy Man (1998)
+1878,One Tough Cop (1998)
+1879,"Mighty, The (1998)"
+1880,2010 (1984)
+1881,Children of a Lesser God (1986)
+1882,"Elephant Man, The (1980)"
+1883,Beloved (1998)
+1884,Bride of Chucky (1998)
+1885,Practical Magic (1998)
+1886,Happiness (1998)
+1887,Apt Pupil (1998)
+1888,Pleasantville (1998)
+1889,Soldier (1998)
+1890,"Cruise, The (1998)"
+1891,Life Is Beautiful (La Vita ï¿½ bella) (1997)
+1892,Orgazmo (1997)
+1893,Shattered Image (1998)
+1894,Tales from the Darkside: The Movie (1990)
+1895,Vampires (1998)
+1896,American History X (1998)
+1897,Hands on a Hard Body (1996)
+1898,Living Out Loud (1998)
+1899,Belly (1998)
+1900,Gods and Monsters (1998)
+1901,"Siege, The (1998)"
+1902,"Waterboy, The (1998)"
+1903,Elizabeth (1998)
+1904,Velvet Goldmine (1998)
+1905,I Still Know What You Did Last Summer (1998)
+1906,I'll Be Home For Christmas (1998)
+1907,Meet Joe Black (1998)
+1908,Dancing at Lughnasa (1998)
+1909,Runaway Train (1985)
+1910,Desert Bloom (1986)
+1911,"Stepford Wives, The (1975)"
+1912,"Pope of Greenwich Village, The (1984)"
+1913,Sid and Nancy (1986)
+1914,Mona Lisa (1986)
+1915,Nights of Cabiria (Le Notti di Cabiria) (1957)
+1916,"Big Chill, The (1983)"
+1917,Enemy of the State (1998)
+1918,"Rugrats Movie, The (1998)"
+1919,"Bug's Life, A (1998)"
+1920,Celebrity (1998)
+1921,Central Station (Central do Brasil) (1998)
+1922,Waking Ned Devine (1998)
+1923,"Celebration, The (Festen) (1998)"
+1924,Pink Flamingos (1972)
+1925,Glen or Glenda (1953)
+1926,Godzilla (Gojira) (1954)
+1927,Godzilla (Gojira) (1984)
+1928,King Kong vs. Godzilla (Kingukongu tai Gojira) (1962)
+1929,King Kong (1933)
+1930,King Kong (1976)
+1931,King Kong Lives (1986)
+1932,Desperately Seeking Susan (1985)
+1933,"Emerald Forest, The (1985)"
+1934,Fletch (1985)
+1935,Fletch Lives (1989)
+1936,Red Sonja (1985)
+1937,Gung Ho (1986)
+1938,"Money Pit, The (1986)"
+1939,"View to a Kill, A (1985)"
+1940,Lifeforce (1985)
+1941,Police Academy (1984)
+1942,Police Academy 2: Their First Assignment (1985)
+1943,Police Academy 3: Back in Training (1986)
+1944,Police Academy 4: Citizens on Patrol (1987)
+1945,Police Academy 5: Assignment: Miami Beach (1988)
+1946,Police Academy 6: City Under Siege (1989)
+1947,Babe: Pig in the City (1998)
+1948,Home Fries (1998)
+1949,Jerry Springer: Ringmaster (1998)
+1950,Very Bad Things (1998)
+1951,Steam: The Turkish Bath (Hamam) (1997)
+1952,Psycho (1998)
+1953,Little Voice (1998)
+1954,"Simple Plan, A (1998)"
+1955,Jack Frost (1998)
+1956,Star Trek: Insurrection (1998)
+1957,"Prince of Egypt, The (1998)"
+1958,Rushmore (1998)
+1959,Shakespeare in Love (1998)
+1960,Mass Appeal (1984)
+1961,Miracle on 34th Street (1947)
+1962,Santa Claus: The Movie (1985)
+1963,Prancer (1989)
+1964,Pale Rider (1985)
+1965,Rambo: First Blood Part II (1985)
+1966,First Blood (1982)
+1967,Rambo III (1988)
+1968,"Jewel of the Nile, The (1985)"
+1969,Romancing the Stone (1984)
+1970,Cocoon (1985)
+1971,Cocoon: The Return (1988)
+1972,Rocky II (1979)
+1973,Rocky III (1982)
+1974,Rocky IV (1985)
+1975,Rocky V (1990)
+1976,Clue (1985)
+1977,Young Sherlock Holmes (1985)
+1978,Violets Are Blue... (1986)
+1979,Back to School (1986)
+1980,Heartburn (1986)
+1981,Nothing in Common (1986)
+1982,Extremities (1986)
+1983,"Karate Kid, The (1984)"
+1984,"Karate Kid, Part II, The (1986)"
+1985,"Karate Kid III, The (1989)"
+1986,Christmas Vacation (1989)
+1987,You've Got Mail (1998)
+1988,"General, The (1998)"
+1989,"Theory of Flight, The (1998)"
+1990,"Thin Red Line, The (1998)"
+1991,"Faculty, The (1998)"
+1992,Mighty Joe Young (1998)
+1993,Mighty Joe Young (1949)
+1994,Patch Adams (1998)
+1995,Stepmom (1998)
+1996,"Civil Action, A (1998)"
+1997,Down in the Delta (1998)
+1998,Hurlyburly (1998)
+1999,Tea with Mussolini (1999)
+2000,Wilde (1997)
+2001,Affliction (1997)
+2002,Another Day in Paradise (1998)
+2003,"Hi-Lo Country, The (1998)"
+2004,Hilary and Jackie (1998)
+2005,Playing by Heart (1998)
+2006,At First Sight (1999)
+2007,In Dreams (1999)
+2008,Varsity Blues (1999)
+2009,Virus (1999)
+2010,"Garbage Pail Kids Movie, The (1987)"
+2011,Howard the Duck (1986)
+2012,"Gate, The (1987)"
+2013,"Gate II: Trespassers, The (1990)"
+2014,"Boy Who Could Fly, The (1986)"
+2015,"Fly, The (1958)"
+2016,"Fly, The (1986)"
+2017,"Fly II, The (1989)"
+2018,Running Scared (1986)
+2019,Armed and Dangerous (1986)
+2020,"Texas Chainsaw Massacre, The (1974)"
+2021,"Texas Chainsaw Massacre 2, The (1986)"
+2022,Leatherface: Texas Chainsaw Massacre III (1990)
+2023,"Return of the Texas Chainsaw Massacre, The (1994)"
+2024,Ruthless People (1986)
+2025,Deadly Friend (1986)
+2026,"Name of the Rose, The (1986)"
+2027,Jumpin' Jack Flash (1986)
+2028,Peggy Sue Got Married (1986)
+2029,Crocodile Dundee (1986)
+2030,Crocodile Dundee II (1988)
+2031,Tough Guys (1986)
+2032,Soul Man (1986)
+2033,"Color of Money, The (1986)"
+2034,52 Pick-Up (1986)
+2035,Heartbreak Ridge (1986)
+2036,Firewalker (1986)
+2037,Three Amigos! (1986)
+2038,Gloria (1999)
+2039,My Name Is Joe (1998)
+2040,Still Crazy (1998)
+2041,"Day of the Beast, The (El Dï¿½a de la bestia) (1995)"
+2042,She's All That (1999)
+2043,"Blood, Guts, Bullets and Octane (1998)"
+2044,Peeping Tom (1960)
+2045,Payback (1999)
+2046,Simply Irresistible (1999)
+2047,20 Dates (1998)
+2048,"Harmonists, The (1997)"
+2049,"Last Days, The (1998)"
+2050,"Fantastic Planet, The (La Planï¿½te sauvage) (1973)"
+2051,Blast from the Past (1999)
+2052,Message in a Bottle (1999)
+2053,My Favorite Martian (1999)
+2054,God Said 'Ha!' (1998)
+2055,Jawbreaker (1999)
+2056,October Sky (1999)
+2057,Office Space (1999)
+2058,200 Cigarettes (1999)
+2059,8MM (1999)
+2060,"Other Sister, The (1999)"
+2061,Breakfast of Champions (1999)
+2062,Eight Days a Week (1997)
+2063,Just the Ticket (1999)
+2064,"Long Goodbye, The (1973)"
+2065,"Ballad of Narayama, The (Narayama Bushiko) (1982)"
+2066,Pet Sematary (1989)
+2067,Pet Sematary II (1992)
+2068,Children of the Corn II: The Final Sacrifice (1993)
+2069,Children of the Corn III (1994)
+2070,Christine (1983)
+2071,Night Shift (1982)
+2072,House on Haunted Hill (1958)
+2073,Airport (1970)
+2074,Airport 1975 (1974)
+2075,Airport '77 (1977)
+2076,Rollercoaster (1977)
+2077,"Towering Inferno, The (1974)"
+2078,Alligator (1980)
+2079,Meteor (1979)
+2080,Westworld (1973)
+2081,Logan's Run (1976)
+2082,Planet of the Apes (1968)
+2083,Beneath the Planet of the Apes (1970)
+2084,Battle for the Planet of the Apes (1973)
+2085,Conquest of the Planet of the Apes (1972)
+2086,Escape from the Planet of the Apes (1971)
+2087,Avalanche (1978)
+2088,Earthquake (1974)
+2089,"Concorde: Airport '79, The (1979)"
+2090,Beyond the Poseidon Adventure (1979)
+2091,Analyze This (1999)
+2092,"Corruptor, The (1999)"
+2093,Cruel Intentions (1999)
+2094,"Lock, Stock & Two Smoking Barrels (1998)"
+2095,"School of Flesh, The (L' ï¿½cole de la chair) (1998)"
+2096,Relax... It's Just Sex (1998)
+2097,"Deep End of the Ocean, The (1999)"
+2098,"Rage: Carrie 2, The (1999)"
+2099,Wing Commander (1999)
+2100,"Haunting, The (1963)"
+2101,Dead Ringers (1988)
+2102,My Boyfriend's Back (1993)
+2103,Village of the Damned (1960)
+2104,Children of the Damned (1963)
+2105,Baby Geniuses (1999)
+2106,Forces of Nature (1999)
+2107,"King and I, The (1999)"
+2108,Ravenous (1999)
+2109,True Crime (1999)
+2110,"King and I, The (1956)"
+2111,Doug's 1st Movie (1999)
+2112,EDtv (1999)
+2113,"Mod Squad, The (1999)"
+2114,"Walk on the Moon, A (1999)"
+2115,"Matrix, The (1999)"
+2116,10 Things I Hate About You (1999)
+2117,Tango (1998)
+2118,"Out-of-Towners, The (1999)"
+2119,"Dreamlife of Angels, The (La Vie rï¿½vï¿½e des anges) (1998)"
+2120,"Love, etc. (1996)"
+2121,Metroland (1997)
+2122,Following (1998)
+2123,Go (1999)
+2124,Never Been Kissed (1999)
+2125,Twin Dragons (Shuang long hui) (1992)
+2126,Cookie's Fortune (1999)
+2127,"Lovers of the Arctic Circle, The (Los Amantes del Cï¿½rculo Polar) (1998)"
+2128,"Goodbye, Lover (1999)"
+2129,Life (1999)
+2130,Friends & Lovers (1999)
+2131,Hideous Kinky (1998)
+2132,"Monster, The (Il Mostro) (1994)"
+2133,Open Your Eyes (Abre los ojos) (1997)
+2134,SLC Punk! (1998)
+2135,Lost & Found (1999)
+2136,Pushing Tin (1999)
+2137,Election (1999)
+2138,eXistenZ (1999)
+2139,Entrapment (1999)
+2140,Idle Hands (1999)
+2141,Get Real (1998)
+2142,"King of Masks, The (Bian Lian) (1996)"
+2143,Three Seasons (1999)
+2144,"Winslow Boy, The (1998)"
+2145,Mildred Pierce (1945)
+2146,Night of the Comet (1984)
+2147,Chopping Mall (a.k.a. Killbots) (1986)
+2148,My Science Project (1985)
+2149,Dick Tracy (1990)
+2150,"Mummy, The (1999)"
+2151,"Castle, The (1997)"
+2152,This Is My Father (1998)
+2153,Xiu Xiu: The Sent-Down Girl (Tian yu) (1998)
+2154,"Midsummer Night's Dream, A (1999)"
+2155,After Life (1998)
+2156,Black Mask (Hak hap) (1996)
+2157,Edge of Seventeen (1998)
+2158,Endurance (1998)
+2159,Star Wars: Episode I - The Phantom Menace (1999)
+2160,"Love Letter, The (1999)"
+2161,Besieged (L' Assedio) (1998)
+2162,"Saragossa Manuscript, The (Rekopis znaleziony w Saragossie) (1965)"
+2163,"Mummy, The (1932)"
+2164,"Mummy, The (1959)"
+2165,"Mummy's Curse, The (1944)"
+2166,"Mummy's Hand, The (1940)"
+2167,"Mummy's Tomb, The (1942)"
+2168,Mommie Dearest (1981)
+2169,Superman (1978)
+2170,Superman II (1980)
+2171,Superman III (1983)
+2172,Superman IV: The Quest for Peace (1987)
+2173,Dracula (1931)
+2174,Dracula (1958)
+2175,House of Dracula (1945)
+2176,House of Frankenstein (1944)
+2177,Frankenstein (1931)
+2178,Son of Frankenstein (1939)
+2179,"Ghost of Frankenstein, The (1942)"
+2180,Frankenstein Meets the Wolf Man (1943)
+2181,"Curse of Frankenstein, The (1957)"
+2182,Son of Dracula (1943)
+2183,"Wolf Man, The (1941)"
+2184,Howling II: Your Sister Is a Werewolf (1985)
+2185,Tarantula (1955)
+2186,"Rocky Horror Picture Show, The (1975)"
+2187,"Flying Saucer, The (1950)"
+2188,It Came from Hollywood (1982)
+2189,"Thing From Another World, The (1951)"
+2190,It Came from Outer Space (1953)
+2191,"War of the Worlds, The (1953)"
+2192,It Came from Beneath the Sea (1955)
+2193,Invasion of the Body Snatchers (1956)
+2194,Earth Vs. the Flying Saucers (1956)
+2195,It Conquered the World (1956)
+2196,"Mole People, The (1956)"
+2197,Swamp Thing (1982)
+2198,Pork Chop Hill (1959)
+2199,"Run Silent, Run Deep (1958)"
+2200,Notting Hill (1999)
+2201,"Thirteenth Floor, The (1999)"
+2202,Eternity and a Day (Mia eoniotita ke mia mera ) (1998)
+2203,"Loss of Sexual Innocence, The (1999)"
+2204,Twice Upon a Yesterday (1998)
+2205,Instinct (1999)
+2206,Buena Vista Social Club (1999)
+2207,Desert Blue (1999)
+2208,Free Enterprise (1998)
+2209,Limbo (1999)
+2210,Austin Powers: The Spy Who Shagged Me (1999)
+2211,"Red Dwarf, The (Le Nain rouge) (1998)"
+2212,"Red Violin, The (Le Violon rouge) (1998)"
+2213,Tarzan (1999)
+2214,"General's Daughter, The (1999)"
+2215,Get Bruce (1999)
+2216,"Ideal Husband, An (1999)"
+2217,"Legend of 1900, The (Leggenda del pianista sull'oceano) (1998)"
+2218,Run Lola Run (Lola rennt) (1998)
+2219,Trekkies (1997)
+2220,Big Daddy (1999)
+2221,"Boys, The (1997)"
+2222,"Dinner Game, The (Le Dï¿½ner de cons) (1998)"
+2223,My Son the Fanatic (1998)
+2224,Arachnophobia (1990)
+2225,"South Park: Bigger, Longer and Uncut (1999)"
+2226,Wild Wild West (1999)
+2227,Summer of Sam (1999)
+2228,"Lovers on the Bridge, The (Les Amants du Pont-Neuf) (1991)"
+2229,American Pie (1999)
+2230,Arlington Road (1999)
+2231,"Autumn Tale, An (Conte d'automne) (1998)"
+2232,Muppets From Space (1999)
+2233,"Blair Witch Project, The (1999)"
+2234,My Life So Far (1999)
+2235,Eyes Wide Shut (1999)
+2236,Lake Placid (1999)
+2237,"Wood, The (1999)"
+2238,"Velocity of Gary, The (1998)"
+2239,Ghostbusters (1984)
+2240,Ghostbusters II (1989)
+2241,Drop Dead Gorgeous (1999)
+2242,"Haunting, The (1999)"
+2243,Inspector Gadget (1999)
+2244,Trick (1999)
+2245,Deep Blue Sea (1999)
+2246,Mystery Men (1999)
+2247,Runaway Bride (1999)
+2248,Twin Falls Idaho (1999)
+2249,"Killing, The (1956)"
+2250,Killer's Kiss (1955)
+2251,Spartacus (1960)
+2252,Lolita (1962)
+2253,Barry Lyndon (1975)
+2254,"400 Blows, The (Les Quatre cents coups) (1959)"
+2255,Jules and Jim (Jules et Jim) (1961)
+2256,Vibes (1988)
+2257,"Mosquito Coast, The (1986)"
+2258,"Golden Child, The (1986)"
+2259,Brighton Beach Memoirs (1986)
+2260,Crimes of the Heart (1986)
+2261,"Color Purple, The (1985)"
+2262,"Kindred, The (1986)"
+2263,No Mercy (1986)
+2264,Native Son (1986)
+2265,Otello (1986)
+2266,"Mission, The (1986)"
+2267,Little Shop of Horrors (1986)
+2268,"Little Shop of Horrors, The (1960)"
+2269,Allan Quartermain and the Lost City of Gold (1987)
+2270,"Morning After, The (1986)"
+2271,Radio Days (1987)
+2272,From the Hip (1987)
+2273,Outrageous Fortune (1987)
+2274,"Bedroom Window, The (1987)"
+2275,Deadtime Stories (1987)
+2276,Light of Day (1987)
+2277,Wanted: Dead or Alive (1987)
+2278,Frances (1982)
+2279,Plenty (1985)
+2280,Dick (1999)
+2281,"Gambler, The (A Jï¿½tï¿½kos) (1997)"
+2282,"Iron Giant, The (1999)"
+2283,"Sixth Sense, The (1999)"
+2284,"Thomas Crown Affair, The (1999)"
+2285,"Thomas Crown Affair, The (1968)"
+2286,"Acid House, The (1998)"
+2287,"Adventures of Sebastian Cole, The (1998)"
+2288,Illuminata (1998)
+2289,Stiff Upper Lips (1998)
+2290,"Yards, The (1999)"
+2291,Bowfinger (1999)
+2292,Brokedown Palace (1999)
+2293,Detroit Rock City (1999)
+2294,Alice and Martin (Alice et Martin) (1998)
+2295,Better Than Chocolate (1999)
+2296,"Marcello Mastroianni: I Remember Yes, I Remember (1997)"
+2297,Never Talk to Strangers (1995)
+2298,Heaven Can Wait (1978)
+2299,"Raven, The (1963)"
+2300,"Tingler, The (1959)"
+2301,Pit and the Pendulum (1961)
+2302,"Tomb of Ligeia, The (1965)"
+2303,"Masque of the Red Death, The (1964)"
+2304,Tales of Terror (1962)
+2305,Haunted Honeymoon (1986)
+2306,Cat's Eye (1985)
+2307,And Now for Something Completely Different (1971)
+2308,Damien: Omen II (1978)
+2309,"Final Conflict, The (a.k.a. Omen III: The Final Conflict) (1981)"
+2310,Airplane! (1980)
+2311,Airplane II: The Sequel (1982)
+2312,"American Werewolf in Paris, An (1997)"
+2313,European Vacation (1985)
+2314,Vacation (1983)
+2315,Funny Farm (1988)
+2316,Big (1988)
+2317,Problem Child (1990)
+2318,Problem Child 2 (1991)
+2319,Little Nemo: Adventures in Slumberland (1992)
+2320,Oscar and Lucinda (a.k.a. Oscar & Lucinda) (1997)
+2321,Tequila Sunrise (1988)
+2322,"Pelican Brief, The (1993)"
+2323,"Christmas Story, A (1983)"
+2324,Mickey Blue Eyes (1999)
+2325,Teaching Mrs. Tingle (1999)
+2326,Universal Soldier: The Return (1999)
+2327,Universal Soldier (1992)
+2328,Love Stinks (1999)
+2329,Perfect Blue (1997)
+2330,"Source, The (1999)"
+2331,"Bat, The (1959)"
+2332,Iron Eagle (1986)
+2333,Iron Eagle II (1988)
+2334,Aces: Iron Eagle III (1992)
+2335,Iron Eagle IV (1995)
+2336,Three Days of the Condor (1975)
+2337,Hamlet (1964)
+2338,Medicine Man (1992)
+2339,"Spiders, The (Die Spinnen, 1. Teil: Der Goldene See) (1919)"
+2340,On the Ropes (1999)
+2341,"13th Warrior, The (1999)"
+2342,"Astronaut's Wife, The (1999)"
+2343,Dudley Do-Right (1999)
+2344,"Muse, The (1999)"
+2345,Cabaret Balkan (Bure Baruta) (1998)
+2346,"Very Thought of You, The (1998)"
+2347,Chill Factor (1999)
+2348,Outside Providence (1999)
+2349,Bedrooms & Hallways (1998)
+2350,Stigmata (1999)
+2351,Stir of Echoes (1999)
+2352,Best Laid Plans (1999)
+2353,"Black Cat, White Cat (Crna macka, beli macor) (1998)"
+2354,"Minus Man, The (1999)"
+2355,"Adventures of Milo and Otis, The (1986)"
+2356,Only Angels Have Wings (1939)
+2357,Othello (1952)
+2358,Queens Logic (1991)
+2359,Public Access (1993)
+2360,Saturn 3 (1979)
+2361,"Soldier's Story, A (1984)"
+2362,"Communion (a.k.a. Alice, Sweet Alice/Holy Terror) (1977)"
+2363,Don't Look in the Basement! (1973)
+2364,Nightmares (1983)
+2365,I Saw What You Did (1965)
+2366,Yellow Submarine (1968)
+2367,American Beauty (1999)
+2368,Stop Making Sense (1984)
+2369,Blue Streak (1999)
+2370,For Love of the Game (1999)
+2371,Caligula (1980)
+2372,"Hard Day's Night, A (1964)"
+2373,Splendor (1999)
+2374,Sugar Town (1999)
+2375,"Buddy Holly Story, The (1978)"
+2376,Fright Night (1985)
+2377,Fright Night Part II (1989)
+2378,"Separation, The (La Sï¿½paration) (1994)"
+2379,Barefoot in the Park (1967)
+2380,Deliverance (1972)
+2381,Excalibur (1981)
+2382,Lulu on the Bridge (1998)
+2383,"Pajama Game, The (1957)"
+2384,Sommersby (1993)
+2385,Thumbelina (1994)
+2386,Tommy (1975)
+2387,Hell Night (1981)
+2388,Operation Condor (Feiying gaiwak) (1990)
+2389,Operation Condor 2 (Longxiong hudi) (1990)
+2390,Double Jeopardy (1999)
+2391,Jakob the Liar (1999)
+2392,Mumford (1999)
+2393,Dog Park (1998)
+2394,Guinevere (1999)
+2395,"Adventures of Elmo in Grouchland, The (1999)"
+2396,Drive Me Crazy (1999)
+2397,"Mystery, Alaska (1999)"
+2398,Three Kings (1999)
+2399,"Happy, Texas (1999)"
+2400,New Rose Hotel (1998)
+2401,Plunkett & MaCleane (1999)
+2402,Romance (1999)
+2403,Alvarez Kelly (1966)
+2404,And the Ship Sails On (E la nave va) (1984)
+2405,"Dark Half, The (1993)"
+2406,Gulliver's Travels (1939)
+2407,Monkey Shines (1988)
+2408,Phantasm (1979)
+2409,Psycho II (1983)
+2410,Psycho III (1986)
+2411,Rain (1932)
+2412,Sanjuro (1962)
+2413,Random Hearts (1999)
+2414,Superstar (1999)
+2415,Boys Don't Cry (1999)
+2416,"Grandfather, The (El Abuelo) (1998)"
+2417,"Limey, The (1999)"
+2418,"Mating Habits of the Earthbound Human, The (1998)"
+2419,Molly (1999)
+2420,Risky Business (1983)
+2421,Total Recall (1990)
+2422,Body Heat (1981)
+2423,Ferris Bueller's Day Off (1986)
+2424,Year of Living Dangerously (1982)
+2425,Children of Paradise (Les enfants du paradis) (1945)
+2426,High Plains Drifter (1972)
+2427,Hang 'em High (1967)
+2428,Citizen's Band (a.k.a. Handle with Care) (1977)
+2429,Drunken Master (Zui quan) (1979)
+2430,"Conformist, The (Il Conformista) (1970)"
+2431,Hairspray (1988)
+2432,Brief Encounter (1946)
+2433,"Razor's Edge, The (1984)"
+2434,Reds (1981)
+2435,Time of the Gypsies (Dom za vesanje) (1989)
+2436,Days of Heaven (1978)
+2437,"Fire Within, The (Le Feu Follet) (1963)"
+2438,"Lady Eve, The (1941)"
+2439,Sullivan's Travels (1942)
+2440,"Palm Beach Story, The (1942)"
+2441,Man Facing Southeast (Hombre Mirando al Sudeste) (1986)
+2442,Niagara (1953)
+2443,Gilda (1946)
+2444,South Pacific (1958)
+2445,Flashdance (1983)
+2446,Indochine (1992)
+2447,"Dirty Dozen, The (1967)"
+2448,Mike's Murder (1984)
+2449,Help! (1965)
+2450,Goldfinger (1964)
+2451,From Russia with Love (1963)
+2452,Dr. No (1962)
+2453,"Blue Lagoon, The (1980)"
+2454,"Fistful of Dollars, A (1964)"
+2455,"Hard 8 (a.k.a. Sydney, a.k.a. Hard Eight) (1996)"
+2456,Home Alone 2: Lost in New York (1992)
+2457,Penitentiary II (1982)
+2458,Someone to Watch Over Me (1987)
+2459,Fight Club (1999)
+2460,"Story of Us, The (1999)"
+2461,Fever Pitch (1997)
+2462,Julien Donkey-Boy (1999)
+2463,"Omega Code, The (1999)"
+2464,"Straight Story, The (1999)"
+2465,"Bad Seed, The (1956)"
+2466,Time Bandits (1981)
+2467,"Man and a Woman, A (Un Homme et une Femme) (1966)"
+2468,Fitzcarraldo (1982)
+2469,All That Jazz (1979)
+2470,Red Sorghum (Hong Gao Liang) (1987)
+2471,Crimes and Misdemeanors (1989)
+2472,Bats (1999)
+2473,"Best Man, The (1999)"
+2474,Bringing Out the Dead (1999)
+2475,Crazy in Alabama (1999)
+2476,Three to Tango (1999)
+2477,Body Shots (1999)
+2478,"Brother, Can You Spare a Dime? (1975)"
+2479,"Guardian, The (1990)"
+2480,"Ipcress File, The (1965)"
+2481,On Any Sunday (1971)
+2482,Robocop (1987)
+2483,Robocop 2 (1990)
+2484,Who Framed Roger Rabbit? (1988)
+2485,Melvin and Howard (1980)
+2486,For Your Eyes Only (1981)
+2487,Licence to Kill (1989)
+2488,Live and Let Die (1973)
+2489,Rawhead Rex (1986)
+2490,Thunderball (1965)
+2491,"House on Haunted Hill, The (1999)"
+2492,Music of the Heart (1999)
+2493,Being John Malkovich (1999)
+2494,"Princess Mononoke, The (Mononoke Hime) (1997)"
+2495,My Best Fiend (Mein liebster Feind) (1999)
+2496,"Bachelor, The (1999)"
+2497,"Bone Collector, The (1999)"
+2498,"Insider, The (1999)"
+2499,American Movie (1999)
+2500,Last Night (1998)
+2501,Rosetta (1999)
+2502,"They Shoot Horses, Don't They? (1969)"
+2503,Battling Butler (1926)
+2504,Bride of Re-Animator (1990)
+2505,Bustin' Loose (1981)
+2506,Coma (1978)
+2507,Creepshow (1982)
+2508,Creepshow 2 (1987)
+2509,Re-Animator (1985)
+2510,Drugstore Cowboy (1989)
+2511,Falling Down (1993)
+2512,"Funhouse, The (1981)"
+2513,"General, The (1927)"
+2514,Piranha (1978)
+2515,Rough Night in Jericho (1967)
+2516,Slaughterhouse (1987)
+2517,"Taming of the Shrew, The (1967)"
+2518,Nighthawks (1981)
+2519,Yojimbo (1961)
+2520,Repossessed (1990)
+2521,"Omega Man, The (1971)"
+2522,Spaceballs (1987)
+2523,Robin Hood (1973)
+2524,Mister Roberts (1955)
+2525,Quest for Fire (1981)
+2526,Little Big Man (1970)
+2527,"Face in the Crowd, A (1957)"
+2528,Trading Places (1983)
+2529,Meatballs (1979)
+2530,Meatballs Part II (1984)
+2531,Meatballs III (1987)
+2532,Meatballs 4 (1992)
+2533,Dead Again (1991)
+2534,Peter's Friends (1992)
+2535,"Incredibly True Adventure of Two Girls in Love, The (1995)"
+2536,Under the Rainbow (1981)
+2537,How I Won the War (1967)
+2538,Light It Up (1999)
+2539,Anywhere But Here (1999)
+2540,Dogma (1999)
+2541,"Messenger: The Story of Joan of Arc, The (1999)"
+2542,Pokï¿½mon: The First Movie (1998)
+2543,Felicia's Journey (1999)
+2544,Oxygen (1999)
+2545,"Ape, The (1940)"
+2546,"Commitments, The (1991)"
+2547,Holiday Inn (1942)
+2548,"Longest Day, The (1962)"
+2549,Poison Ivy (1992)
+2550,Poison Ivy: New Seduction (1997)
+2551,Tora! Tora! Tora! (1970)
+2552,Women on the Verge of a Nervous Breakdown (1988)
+2553,"Verdict, The (1982)"
+2554,"Effect of Gamma Rays on Man-in-the-Moon Marigolds, The (1972)"
+2555,"Adventures of Buckaroo Bonzai Across the 8th Dimension, The (1984)"
+2556,Stand and Deliver (1987)
+2557,Moonstruck (1987)
+2558,"Sandpiper, The (1965)"
+2559,Jeremiah Johnson (1972)
+2560,Repulsion (1965)
+2561,Irma la Douce (1963)
+2562,42 Up (1998)
+2563,Liberty Heights (1999)
+2564,Mansfield Park (1999)
+2565,Sleepy Hollow (1999)
+2566,"World Is Not Enough, The (1999)"
+2567,All About My Mother (Todo Sobre Mi Madre) (1999)
+2568,March of the Wooden Soldiers (a.k.a. Laurel & Hardy in Toyland) (1934)
+2569,Scrooged (1988)
+2570,Harvey (1950)
+2571,"Bicycle Thief, The (Ladri di biciclette) (1948)"
+2572,Matewan (1987)
+2573,Kagemusha (1980)
+2574,McCabe & Mrs. Miller (1971)
+2575,Maurice (1987)
+2576,"Grapes of Wrath, The (1940)"
+2577,My Man Godfrey (1957)
+2578,"Shop Around the Corner, The (1940)"
+2579,"Natural, The (1984)"
+2580,Shampoo (1975)
+2581,"River Runs Through It, A (1992)"
+2582,Fatal Attraction (1987)
+2583,Jagged Edge (1985)
+2584,Stanley & Iris (1990)
+2585,Midnight Run (1988)
+2586,Awakenings (1990)
+2587,Come See the Paradise (1990)
+2588,Backdraft (1991)
+2589,"Fisher King, The (1991)"
+2590,"River, The (1984)"
+2591,Country (1984)
+2592,Places in the Heart (1984)
+2593,'Night Mother (1986)
+2594,End of Days (1999)
+2595,Toy Story 2 (1999)
+2596,Flawless (1999)
+2597,Ride with the Devil (1999)
+2598,Tumbleweeds (1999)
+2599,Bay of Blood (Reazione a catena) (1971)
+2600,"Distinguished Gentleman, The (1992)"
+2601,"Hitch-Hiker, The (1953)"
+2602,Santa Fe Trail (1940)
+2603,Agnes Browne (1999)
+2604,"End of the Affair, The (1999)"
+2605,Holy Smoke (1999)
+2606,"Map of the World, A (1999)"
+2607,Sweet and Lowdown (1999)
+2608,Bonfire of the Vanities (1990)
+2609,Daddy Long Legs (1919)
+2610,Go West (1925)
+2611,"Grand Illusion (Grande illusion, La) (1937)"
+2612,"Great Santini, The (1979)"
+2613,"Sea Wolves, The (1980)"
+2614,Stealing Home (1988)
+2615,"Three Ages, The (1923)"
+2616,"Two Jakes, The (1990)"
+2617,U2: Rattle and Hum (1988)
+2618,"Glass Bottom Boat, The (1966)"
+2619,"Cradle Will Rock, The (1999)"
+2620,Deuce Bigalow: Male Gigolo (1999)
+2621,"Green Mile, The (1999)"
+2622,"Cider House Rules, The (1999)"
+2623,Diamonds (1999)
+2624,"War Zone, The (1999)"
+2625,"Last Picture Show, The (1971)"
+2626,"7th Voyage of Sinbad, The (1958)"
+2627,Anna and the King (1999)
+2628,Bicentennial Man (1999)
+2629,Stuart Little (1999)
+2630,"Emperor and the Assassin, The (Jing ke ci qin wang) (1999)"
+2631,Fantasia 2000 (1999)
+2632,Magnolia (1999)
+2633,Onegin (1999)
+2634,Simpatico (1999)
+2635,Topsy-Turvy (1999)
+2636,Boiling Point (1993)
+2637,Brenda Starr (1989)
+2638,Carnal Knowledge (1971)
+2639,Easy Rider (1969)
+2640,"Falcon and the Snowman, The (1984)"
+2641,Room at the Top (1959)
+2642,Any Given Sunday (1999)
+2643,Man on the Moon (1999)
+2644,Galaxy Quest (1999)
+2645,"Talented Mr. Ripley, The (1999)"
+2646,Next Friday (1999)
+2647,"Hurricane, The (1999)"
+2648,Angela's Ashes (1999)
+2649,Play it to the Bone (1999)
+2650,Titus (1999)
+2651,Mr. Death: The Rise and Fall of Fred A. Leuchter Jr. (1999)
+2652,"Third Miracle, The (1999)"
+2653,Montana (1998)
+2654,Snow Falling on Cedars (1999)
+2655,"Girl, Interrupted (1999)"
+2656,Trans (1998)
+2657,"Life and Times of Hank Greenberg, The (1998)"
+2658,My Dog Skip (1999)
+2659,Supernova (2000)
+2660,"Way We Were, The (1973)"
+2661,Stalag 17 (1953)
+2662,"Presidio, The (1988)"
+2663,Papillon (1973)
+2664,Pal Joey (1957)
+2665,"Last Detail, The (1973)"
+2666,Five Easy Pieces (1970)
+2667,Dead Calm (1989)
+2668,"Boys from Brazil, The (1978)"
+2669,Black Sunday (La Maschera Del Demonio) (1960)
+2670,Against All Odds (1984)
+2671,Loaded Weapon 1 (1993)
+2672,Fast Times at Ridgemont High (1982)
+2673,"Cry in the Dark, A (1988)"
+2674,Batman: Mask of the Phantasm (1993)
+2675,American Flyers (1985)
+2676,Voyage of the Damned (1976)
+2677,Vampyros Lesbos (Las Vampiras) (1970)
+2678,"Star Is Born, A (1937)"
+2679,Poison (1991)
+2680,Pacific Heights (1990)
+2681,"Draughtsman's Contract, The (1982)"
+2682,Carmen (1984)
+2683,"Zed & Two Noughts, A (1985)"
+2684,Woman in the Dunes (Suna no onna) (1964)
+2685,Down to You (2000)
+2686,"Odessa File, The (1974)"
+2687,Seven Chances (1925)
+2688,Where the Buffalo Roam (1980)
+2689,Eye of the Beholder (1999)
+2690,Isn't She Great? (2000)
+2691,"Big Tease, The (1999)"
+2692,"Cup, The (Phï¿½rpa) (1999)"
+2693,Encino Man (1992)
+2694,"Goodbye Girl, The (1977)"
+2695,Malcolm X (1992)
+2696,Sister Act (1992)
+2697,Sister Act 2: Back in the Habit (1993)
+2698,"Hand That Rocks the Cradle, The (1992)"
+2699,Alive (1993)
+2700,Agnes of God (1985)
+2701,Scent of a Woman (1992)
+2702,Wayne's World (1992)
+2703,Wayne's World 2 (1993)
+2704,"League of Their Own, A (1992)"
+2705,Patriot Games (1992)
+2706,"Bodyguard, The (1992)"
+2707,Death Becomes Her (1992)
+2708,Far and Away (1992)
+2709,Howards End (1992)
+2710,Singles (1992)
+2711,Twin Peaks: Fire Walk with Me (1992)
+2712,White Men Can't Jump (1992)
+2713,Buffy the Vampire Slayer (1992)
+2714,Hard-Boiled (Lashou shentan) (1992)
+2715,Man Bites Dog (C'est arrivï¿½ prï¿½s de chez vous) (1992)
+2716,"Mariachi, El (1992)"
+2717,Stop! Or My Mom Will Shoot (1992)
+2718,Forever Young (1992)
+2719,"Cutting Edge, The (1992)"
+2720,Of Mice and Men (1992)
+2721,Bad Lieutenant (1992)
+2722,Scream 3 (2000)
+2723,Single White Female (1992)
+2724,"Boondock Saints, The (1999)"
+2725,Gun Shy (2000)
+2726,"Brandon Teena Story, The (1998)"
+2727,Different for Girls (1996)
+2728,Minnie and Moskowitz (1971)
+2729,They Might Be Giants (1971)
+2730,"Beach, The (2000)"
+2731,Snow Day (2000)
+2732,"Tigger Movie, The (2000)"
+2733,Not One Less (Yi ge dou bu neng shao) (1999)
+2734,Eaten Alive (1976)
+2735,To Sir with Love (1967)
+2736,Boiler Room (2000)
+2737,Hanging Up (2000)
+2738,Pitch Black (2000)
+2739,"Whole Nine Yards, The (2000)"
+2740,Beautiful People (1999)
+2741,Black Tar Heroin: The Dark End of the Street (1999)
+2742,Blue Collar (1978)
+2743,"Circus, The (1928)"
+2744,City Lights (1931)
+2745,"Flamingo Kid, The (1984)"
+2746,"Dog's Life, A (1920)"
+2747,"Kid, The (1921)"
+2748,"Man from Laramie, The (1955)"
+2749,"McCullochs, The (1975)"
+2750,Class Reunion (1982)
+2751,Reindeer Games (2000)
+2752,Wonder Boys (2000)
+2753,Deterrence (1998)
+2754,Judy Berlin (1999)
+2755,Mifune (Mifunes sidste sang) (1999)
+2756,Drowning Mona (2000)
+2757,"Next Best Thing, The (2000)"
+2758,What Planet Are You From? (2000)
+2759,Beyond the Mat (2000)
+2760,Ghost Dog: The Way of the Samurai (1999)
+2761,Splendor in the Grass (1961)
+2762,"Killing of Sister George, The (1968)"
+2763,Key Largo (1948)
+2764,For All Mankind (1989)
+2765,Cross of Iron (1977)
+2766,Bride of the Monster (1956)
+2767,Born Yesterday (1950)
+2768,Birdy (1984)
+2769,And God Created Woman (1988)
+2770,Blood Feast (1963)
+2771,Color Me Blood Red (1965)
+2772,Never Cry Wolf (1983)
+2773,"Perils of Pauline, The (1947)"
+2774,"Raisin in the Sun, A (1961)"
+2775,Two Thousand Maniacs! (1964)
+2776,Mission to Mars (2000)
+2777,"Ninth Gate, The (2000)"
+2778,East-West (Est-ouest) (1999)
+2779,Defending Your Life (1991)
+2780,Breaking Away (1979)
+2781,Hoosiers (1986)
+2782,Bull Durham (1988)
+2783,Dog Day Afternoon (1975)
+2784,American Graffiti (1973)
+2785,"Asphalt Jungle, The (1950)"
+2786,"Searchers, The (1956)"
+2787,Where Eagles Dare (1969)
+2788,"Devil's Brigade, The (1968)"
+2789,"Big Country, The (1958)"
+2790,Betrayed (1988)
+2791,Bound for Glory (1976)
+2792,"Bridge at Remagen, The (1969)"
+2793,Buck and the Preacher (1972)
+2794,Destination Moon (1950)
+2795,Hangmen Also Die (1943)
+2796,On the Beach (1959)
+2797,Railroaded! (1947)
+2798,Slaves to the Underground (1997)
+2799,"Taking of Pelham One Two Three, The (1974)"
+2800,Volunteers (1985)
+2801,JFK (1991)
+2802,Who's Harry Crumb? (1989)
+2803,Harry and the Hendersons (1987)
+2804,Let's Get Harry (1986)
+2805,Shanghai Surprise (1986)
+2806,Who's That Girl? (1987)
+2807,She-Devil (1989)
+2808,Date with an Angel (1987)
+2809,Blind Date (1987)
+2810,Nadine (1987)
+2811,"Muppet Movie, The (1979)"
+2812,"Great Muppet Caper, The (1981)"
+2813,"Muppets Take Manhattan, The (1984)"
+2814,Sesame Street Presents Follow That Bird (1985)
+2815,We're Back! A Dinosaur's Story (1993)
+2816,Baby... Secret of the Lost Legend (1985)
+2817,Turtle Diary (1985)
+2818,Raise the Titanic (1980)
+2819,Titanic (1953)
+2820,"Night to Remember, A (1958)"
+2821,Captain Horatio Hornblower (1951)
+2822,"Carriers Are Waiting, The (Les Convoyeurs Attendent) (1999)"
+2823,Erin Brockovich (2000)
+2824,Final Destination (2000)
+2825,"Bear, The (1988)"
+2826,Love Is a Many-Splendored Thing (1955)
+2827,"Mirror, The (Zerkalo) (1975)"
+2828,"Trial, The (Le Procï¿½s) (1963)"
+2829,"Crimson Pirate, The (1952)"
+2830,Thelma & Louise (1991)
+2831,Something for Everyone (1970)
+2832,...And Justice for All (1979)
+2833,Animal House (1978)
+2834,She's Gotta Have It (1986)
+2835,School Daze (1988)
+2836,Do the Right Thing (1989)
+2837,Mo' Better Blues (1990)
+2838,Jungle Fever (1991)
+2839,Coogan's Bluff (1968)
+2840,"Champ, The (1979)"
+2841,Creature Comforts (1990)
+2842,Death Wish (1974)
+2843,Death Wish II (1982)
+2844,Death Wish 3 (1985)
+2845,Death Wish 4: The Crackdown (1987)
+2846,Death Wish V: The Face of Death (1994)
+2847,Double Indemnity (1944)
+2848,Dying Young (1991)
+2849,Teenage Mutant Ninja Turtles (1990)
+2850,Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
+2851,Teenage Mutant Ninja Turtles III (1993)
+2852,Red Dawn (1984)
+2853,Band of the Hand (1986)
+2854,Born American (1986)
+2855,Bloodsport (1988)
+2856,Eyes of Laura Mars (1978)
+2857,Funny Bones (1995)
+2858,"Good Earth, The (1937)"
+2859,"Good Morning, Vietnam (1987)"
+2860,"Good Mother, The (1988)"
+2861,Grumpy Old Men (1993)
+2862,Guess Who's Coming to Dinner (1967)
+2863,Romeo Must Die (2000)
+2864,Here on Earth (2000)
+2865,Whatever It Takes (2000)
+2866,"Color of Paradise, The (Rang-e Khoda) (1999)"
+2867,Waking the Dead (1999)
+2868,Gothic (1986)
+2869,Lord of the Flies (1963)
+2870,Modern Times (1936)
+2871,Solar Crisis (1993)
+2872,That's Life! (1986)
+2873,Heart and Souls (1993)
+2874,Hud (1963)
+2875,"Hustler, The (1961)"
+2876,Inherit the Wind (1960)
+2877,Dersu Uzala (1974)
+2878,Close Encounters of the Third Kind (1977)
+2879,Jonah Who Will Be 25 in the Year 2000 (1976)
+2880,Retroactive (1997)
+2881,"Place in the Sun, A (1951)"
+2882,Jacob's Ladder (1990)
+2883,Empire Records (1995)
+2884,"Bamba, La (1987)"
+2885,Ladyhawke (1985)
+2886,Lucas (1986)
+2887,High Fidelity (2000)
+2888,"Road to El Dorado, The (2000)"
+2889,"Skulls, The (2000)"
+2890,Devil Girl From Mars (1954)
+2891,"Dorado, El (1967)"
+2892,"Hideous Sun Demon, The (1959)"
+2893,Hook (1991)
+2894,My Chauffeur (1986)
+2895,Torso (Corpi Presentano Tracce di Violenza Carnale) (1973)
+2896,True Grit (1969)
+2897,Roadside Prophets (1992)
+2898,Madame Sousatzka (1988)
+2899,Max Dugan Returns (1983)
+2900,Midnight Express (1978)
+2901,Misery (1990)
+2902,Mr. Saturday Night (1992)
+2903,Murphy's Romance (1985)
+2904,My Life (1993)
+2905,Solaris (Solyaris) (1972)
+2906,Network (1976)
+2907,No Way Out (1987)
+2908,North Dallas Forty (1979)
+2909,"Odd Couple, The (1968)"
+2910,"Outlaw Josey Wales, The (1976)"
+2911,Black and White (1999)
+2912,Frequency (2000)
+2913,Ready to Rumble (2000)
+2914,Return to Me (2000)
+2915,Rules of Engagement (2000)
+2916,Joe Gould's Secret (2000)
+2917,Me Myself I (2000)
+2918,"Bell, Book and Candle (1958)"
+2919,"End of Violence, The (1997)"
+2920,Force 10 from Navarone (1978)
+2921,How to Stuff a Wild Bikini (1965)
+2922,Mystery Train (1989)
+2923,Taffin (1988)
+2924,Arthur (1981)
+2925,Bachelor Party (1984)
+2926,Parenthood (1989)
+2927,Predator (1987)
+2928,"Prince of Tides, The (1991)"
+2929,"Postman Always Rings Twice, The (1981)"
+2930,All the Vermeers in New York (1990)
+2931,Freedom for Us (ï¿½ nous la libertï¿½ ) (1931)
+2932,"Actor's Revenge, An (Yukinojo Henge) (1963)"
+2933,28 Days (2000)
+2934,American Psycho (2000)
+2935,Keeping the Faith (2000)
+2936,Where the Money Is (2000)
+2937,East is East (1999)
+2938,"Filth and the Fury, The (2000)"
+2939,Passion of Mind (1999)
+2940,Coming Apart (1969)
+2941,Diner (1982)
+2942,Shakes the Clown (1991)
+2943,Cabaret (1972)
+2944,What Ever Happened to Baby Jane? (1962)
+2945,Prick Up Your Ears (1987)
+2946,Auntie Mame (1958)
+2947,Guys and Dolls (1955)
+2948,"Hunger, The (1983)"
+2949,Marathon Man (1976)
+2950,Caddyshack (1980)
+2951,Gossip (2000)
+2952,Love and Basketball (2000)
+2953,U-571 (2000)
+2954,"Virgin Suicides, The (1999)"
+2955,Jennifer 8 (1992)
+2956,"Crow: Salvation, The (2000)"
+2957,"Flintstones in Viva Rock Vegas, The (2000)"
+2958,Where the Heart Is (2000)
+2959,"Big Kahuna, The (2000)"
+2960,Bossa Nova (1999)
+2961,Smiling Fish and Goat on Fire (1999)
+2962,"Idiots, The (Idioterne) (1998)"
+2963,"Last September, The (1999)"
+2964,Time Code (2000)
+2965,Carnosaur (1993)
+2966,Carnosaur 2 (1995)
+2967,Carnosaur 3: Primal Species (1996)
+2968,Defying Gravity (1997)
+2969,"Hidden, The (1987)"
+2970,Two Moon Juction (1988)
+2971,Gladiator (2000)
+2972,I Dreamed of Africa (2000)
+2973,Up at the Villa (2000)
+2974,Human Traffic (1999)
+2975,Breathless (1983)
+2976,"Great Locomotive Chase, The (1956)"
+2977,"Idolmaker, The (1980)"
+2978,Inferno (1980)
+2979,"King of Marvin Gardens, The (1972)"
+2980,"Lords of Flatbush, The (1974)"
+2981,Mr. Mom (1983)
+2982,Battlefield Earth (2000)
+2983,Center Stage (2000)
+2984,Screwed (2000)
+2985,Whipped (2000)
+2986,Hamlet (2000)
+2987,Anchors Aweigh (1945)
+2988,Blue Hawaii (1961)
+2989,"Castaway Cowboy, The (1974)"
+2990,G. I. Blues (1960)
+2991,Gypsy (1962)
+2992,King Creole (1958)
+2993,On the Town (1949)
+2994,Pee-wee's Big Adventure (1985)
+2995,Roustabout (1964)
+2996,"Slipper and the Rose, The (1976)"
+2997,Things Change (1988)
+2998,Honeymoon in Vegas (1992)
+2999,Dinosaur (2000)
+3000,Loser (2000)
+3001,Road Trip (2000)
+3002,Small Time Crooks (2000)
+3003,"Hollywood Knights, The (1980)"
+3004,"Myth of Fingerprints, The (1997)"
+3005,"Twelve Chairs, The (1970)"
+3006,Mission: Impossible 2 (2000)
+3007,Shanghai Noon (2000)
+3008,Better Living Through Circuitry (1999)
+3009,8 1/2 Women (1999)
+3010,Carnival of Souls (1962)
+3011,Flying Tigers (1942)
+3012,"Gold Rush, The (1925)"
+3013,Monsieur Verdoux (1947)
+3014,On Her Majesty's Secret Service (1969)
+3015,Seven Days in May (1964)
+3016,"Spy Who Loved Me, The (1977)"
+3017,Those Who Love Me Can Take the Train (Ceux qui m'aiment prendront le train) (1998)
+3018,Vagabond (Sans toit ni loi) (1985)
+3019,Moonraker (1979)
+3020,"Man with the Golden Gun, The (1974)"
+3021,"King in New York, A (1957)"
+3022,"Woman of Paris, A (1923)"
+3023,"Fighting Seabees, The (1944)"
+3024,Dark Command (1940)
+3025,Cleo From 5 to 7 (Clï¿½o de 5 ï¿½ 7) (1962)
+3026,Big Momma's House (2000)
+3027,Running Free (2000)
+3028,American Gigolo (1980)
+3029,"Endless Summer, The (1966)"
+3030,"Guns of Navarone, The (1961)"
+3031,Blow-Out (La Grande Bouffe) (1973)
+3032,Quatermass and the Pit (1967)
+3033,Quatermass II (1957)
+3034,Puppet Master (1989)
+3035,Puppet Master II (1990)
+3036,Puppet Master III: Toulon's Revenge (1991)
+3037,Puppet Master 4 (1993)
+3038,Puppet Master 5: The Final Chapter (1994)
+3039,Curse of the Puppet Master (1998)
+3040,Rent-A-Cop (1988)
+3041,Romeo and Juliet (1968)
+3042,Stay Tuned (1992)
+3043,"Story of G.I. Joe, The (1945)"
+3044,Blazing Saddles (1974)
+3045,Benji (1974)
+3046,Benji the Hunted (1987)
+3047,For the Love of Benji (1977)
+3048,White Christmas (1954)
+3049,Eraserhead (1977)
+3050,Baraka (1992)
+3051,"Man with the Golden Arm, The (1955)"
+3052,"Decline of Western Civilization, The (1981)"
+3053,"Decline of Western Civilization Part II: The Metal Years, The (1988)"
+3054,For a Few Dollars More (1965)
+3055,Magnum Force (1973)
+3056,Blood Simple (1984)
+3057,"Fabulous Baker Boys, The (1989)"
+3058,Prizzi's Honor (1985)
+3059,Flatliners (1990)
+3060,Porky's (1981)
+3061,Porky's II: The Next Day (1983)
+3062,Porky's Revenge (1985)
+3063,Private School (1983)
+3064,Class of Nuke 'Em High (1986)
+3065,"Toxic Avenger, The (1985)"
+3066,"Toxic Avenger, Part II, The (1989)"
+3067,"Toxic Avenger Part III: The Last Temptation of Toxie, The (1989)"
+3068,Night of the Creeps (1986)
+3069,Predator 2 (1990)
+3070,"Running Man, The (1987)"
+3071,Starman (1984)
+3072,"Brother from Another Planet, The (1984)"
+3073,Alien Nation (1988)
+3074,Mad Max (1979)
+3075,Mad Max 2 (a.k.a. The Road Warrior) (1981)
+3076,Mad Max Beyond Thunderdome (1985)
+3077,Bird on a Wire (1990)
+3078,Angel Heart (1987)
+3079,Nine 1/2 Weeks (1986)
+3080,Firestarter (1984)
+3081,Sleepwalkers (1992)
+3082,Action Jackson (1988)
+3083,Sarafina! (1992)
+3084,Soapdish (1991)
+3085,"Long Walk Home, The (1990)"
+3086,Clara's Heart (1988)
+3087,Burglar (1987)
+3088,Fatal Beauty (1987)
+3089,Gone in 60 Seconds (2000)
+3090,American Pimp (1999)
+3091,Love's Labour's Lost (2000)
+3092,Sunshine (1999)
+3093,Trixie (1999)
+3094,Hamlet (1990)
+3095,Coming Home (1978)
+3096,American Pop (1981)
+3097,Assault on Precinct 13 (1976)
+3098,Near Dark (1987)
+3099,One False Move (1991)
+3100,Shaft (1971)
+3101,"Conversation, The (1974)"
+3102,Cutter's Way (1981)
+3103,"Fury, The (1978)"
+3104,"Paper Chase, The (1973)"
+3105,Prince of the City (1981)
+3106,Serpico (1973)
+3107,"Big Carnival, The (1951)"
+3108,Lonely Are the Brave (1962)
+3109,"Sugarland Express, The (1974)"
+3110,Trouble in Paradise (1932)
+3111,Big Trouble in Little China (1986)
+3112,Badlands (1973)
+3113,"Battleship Potemkin, The (Bronenosets Potyomkin) (1925)"
+3114,Boys and Girls (2000)
+3115,Shaft (2000)
+3116,Titan A.E. (2000)
+3117,Butterfly (La Lengua de las Mariposas) (2000)
+3118,Jesus' Son (1999)
+3119,Chicken Run (2000)
+3120,"Me, Myself and Irene (2000)"
+3121,"Patriot, The (2000)"
+3122,"Adventures of Rocky and Bullwinkle, The (2000)"
+3123,"Perfect Storm, The (2000)"
+3124,"Golden Bowl, The (2000)"
+3125,Asylum (1972)
+3126,Communion (1989)
+3127,Fun and Fancy Free (1947)
+3128,"Kentucky Fried Movie, The (1977)"
+3129,"Blood In, Blood Out (a.k.a. Bound by Honor) (1993)"
+3130,F/X (1986)
+3131,F/X 2 (1992)
+3132,"Hot Spot, The (1990)"
+3133,Missing in Action (1984)
+3134,Missing in Action 2: The Beginning (1985)
+3135,Braddock: Missing in Action III (1988)
+3136,Thunderbolt and Lightfoot (1974)
+3137,Dreamscape (1984)
+3138,"Golden Voyage of Sinbad, The (1974)"
+3139,Hatchet For the Honeymoon (Rosso Segno Della Follia) (1969)
+3140,House Party (1990)
+3141,House Party 2 (1991)
+3142,Melody Time (1948)
+3143,On Our Merry Way (1948)
+3144,Rocketship X-M (1950)
+3145,Shaft in Africa (1973)
+3146,Shaft's Big Score! (1972)
+3147,Croupier (1998)
+3148,"Kid, The (2000)"
+3149,Scary Movie (2000)
+3150,But I'm a Cheerleader (1999)
+3151,Shower (Xizhao) (1999)
+3152,Blowup (1966)
+3153,"Pawnbroker, The (1965)"
+3154,Groove (2000)
+3155,Footloose (1984)
+3156,Duel in the Sun (1946)
+3157,X-Men (2000)
+3158,Chuck & Buck (2000)
+3159,"Five Senses, The (1999)"
+3160,"In Crowd, The (2000)"
+3161,What Lies Beneath (2000)
+3162,Pokï¿½mon the Movie 2000 (2000)
+3163,Anatomy of a Murder (1959)
+3164,Freejack (1992)
+3165,Greaser's Palace (1972)
+3166,H.O.T.S. (1979)
+3167,MacKenna's Gold (1969)
+3168,Sinbad and the Eye of the Tiger (1977)
+3169,Two Women (La Ciociara) (1961)
+3170,What About Bob? (1991)
+3171,White Sands (1992)
+3172,Breaker Morant (1980)
+3173,Everything You Always Wanted to Know About Sex (1972)
+3174,Interiors (1978)
+3175,Love and Death (1975)
+3176,"Official Story, The (La Historia Oficial) (1985)"
+3177,"Other Side of Sunday, The (Sï¿½ndagsengler) (1996)"
+3178,Tampopo (1986)
+3179,Thomas and the Magic Railroad (2000)
+3180,Nutty Professor II: The Klumps (2000)
+3181,"Girl on the Bridge, The (La Fille sur le Pont) (1999)"
+3182,Wonderland (1999)
+3183,Autumn in New York (2000)
+3184,Coyote Ugly (2000)
+3185,Hollow Man (2000)
+3186,Space Cowboys (2000)
+3187,Psycho Beach Party (2000)
+3188,Saving Grace (2000)
+3189,"Black Sabbath (Tre Volti Della Paura, I) (1963)"
+3190,"Brain That Wouldn't Die, The (1962)"
+3191,Bronco Billy (1980)
+3192,"Crush, The (1993)"
+3193,Kelly's Heroes (1970)
+3194,Phantasm II (1988)
+3195,Phantasm III: Lord of the Dead (1994)
+3196,Phantasm IV: Oblivion (1998)
+3197,Pumpkinhead (1988)
+3198,Air America (1990)
+3199,Sleepaway Camp (1983)
+3200,Steel Magnolias (1989)
+3201,And God Created Woman (Et Dieu&#8230;Crï¿½a la Femme) (1956)
+3202,Easy Money (1983)
+3203,"Ilsa, She Wolf of the SS (1974)"
+3204,Silent Fall (1994)
+3205,"Spiral Staircase, The (1946)"
+3206,"Tao of Steve, The (2000)"
+3207,"Tic Code, The (1998)"
+3208,Aimï¿½e & Jaguar (1999)
+3209,"Affair of Love, An (Une Liaison Pornographique) (1999)"
+3210,Bless the Child (2000)
+3211,Cecil B. Demented (2000)
+3212,"Eyes of Tammy Faye, The (2000)"
+3213,"Opportunists, The (1999)"
+3214,"Replacements, The (2000)"
+3215,About Adam (2000)
+3216,"Cell, The (2000)"
+3217,Godzilla 2000 (Gojira ni-sen mireniamu) (1999)
+3218,"Original Kings of Comedy, The (2000)"
+3219,Sunset Strip (2000)
+3220,All the Rage (a.k.a. It's the Rage) (1999)
+3221,"Naked Gun: From the Files of Police Squad!, The (1988)"
+3222,"Naked Gun 2 1/2: The Smell of Fear, The (1991)"
+3223,Our Town (1940)
+3224,Shane (1953)
+3225,"Suddenly, Last Summer (1959)"
+3226,Cat Ballou (1965)
+3227,"Couch in New York, A (1996)"
+3228,Supergirl (1984)
+3229,"Art of War, The (2000)"
+3230,"Ballad of Ramblin' Jack, The (2000)"
+3231,Bring It On (2000)
+3232,Catfish in Black Bean Sauce (2000)
+3233,"Crew, The (2000)"
+3234,Steal This Movie! (2000)
+3235,Highlander: Endgame (2000)
+3236,Anatomy (Anatomie) (2000)
+3237,Nurse Betty (2000)
+3238,Solas (1999)
+3239,"Watcher, The (2000)"
+3240,"Way of the Gun, The (2000)"
+3241,Almost Famous (2000)
+3242,Bait (2000)
+3243,Crime and Punishment in Suburbia (2000)
+3244,Duets (2000)
+3245,Goya in Bordeaux (Goya en Bodeos) (1999)
+3246,Urbania (2000)
+3247,"Specials, The (2000)"
+3248,Under Suspicion (2000)
+3249,Urban Legends: Final Cut (2000)
+3250,Woman on Top (2000)
+3251,Dancer in the Dark (2000)
+3252,Best in Show (2000)
+3253,Beautiful (2000)
+3254,Barenaked in America (1999)
+3255,"Broken Hearts Club, The (2000)"
+3256,Girlfight (2000)
+3257,Remember the Titans (2000)
+3258,Hellraiser (1987)
+3259,Hellbound: Hellraiser II (1988)
+3260,Hellraiser III: Hell on Earth (1992)
+3261,"Faraway, So Close (In Weiter Ferne, So Nah!) (1993)"
+3262,Beach Party (1963)
+3263,Bikini Beach (1964)
+3264,Return of the Fly (1959)
+3265,Pajama Party (1964)
+3266,Stranger Than Paradise (1984)
+3267,Voyage to the Bottom of the Sea (1961)
+3268,Fantastic Voyage (1966)
+3269,Abbott and Costello Meet Frankenstein (1948)
+3270,"Bank Dick, The (1940)"
+3271,"Creature From the Black Lagoon, The (1954)"
+3272,"Giant Gila Monster, The (1959)"
+3273,"Invisible Man, The (1933)"
+3274,Kronos (1957)
+3275,Kronos (1973)
+3276,"Phantom of the Opera, The (1943)"
+3277,Runaway (1984)
+3278,"Slumber Party Massacre, The (1982)"
+3279,"Slumber Party Massacre II, The (1987)"
+3280,"Slumber Party Massacre III, The (1990)"
+3281,Sorority House Massacre II (1990)
+3282,Bamboozled (2000)
+3283,Bootmen (2000)
+3284,Digimon: The Movie (2000)
+3285,Get Carter (2000)
+3286,Get Carter (1971)
+3287,Meet the Parents (2000)
+3288,Requiem for a Dream (2000)
+3289,Tigerland (2000)
+3290,Two Family House (2000)
+3291,"Contender, The (2000)"
