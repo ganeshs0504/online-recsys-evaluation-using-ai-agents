@@ -170,7 +170,7 @@ import os.path as op
 # agg_top_N_dislike = pd.read_csv("negtive_agg_top_25.csv")
 # agg_top_N_like = pd.read_csv("/storage_fast/lhsheng/chenyuxin/Simulator/datasets/ml-1m_real/raw_data/agg_top_25.csv")
 
-openai.api_key = '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'
+openai.api_key = 'removed api key'
 
 # example_prompt = """
 # Given a user's taste and rating history:

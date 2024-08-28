@@ -1,3 +1,1 @@
-Start: 2024-08-23 15:58:36. User 0 starts simulation.
-Start: 2024-08-23 15:58:36 End: 2024-08-23 15:58:45. User 0 finished after 1 pages. [1 / 1]. Total token cost: 2.7k. Taking 8.92s
-Remaining users: 
+Start: 2024-08-28 15:13:52. User 0 starts simulation.
