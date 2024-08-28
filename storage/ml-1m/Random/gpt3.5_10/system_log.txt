@@ -1,0 +1,30 @@
+Start: 2024-08-09 18:58:36. User 1 starts simulation.
+Start: 2024-08-09 18:58:36. User 5 starts simulation.
+Start: 2024-08-09 18:58:36. User 2 starts simulation.
+Start: 2024-08-09 18:58:36. User 6 starts simulation.
+Start: 2024-08-09 18:58:36. User 9 starts simulation.
+Start: 2024-08-09 18:58:36. User 3 starts simulation.
+Start: 2024-08-09 18:58:36. User 7 starts simulation.
+Start: 2024-08-09 18:58:36. User 0 starts simulation.
+Start: 2024-08-09 18:58:36. User 8 starts simulation.
+Start: 2024-08-09 18:58:36. User 4 starts simulation.
+Start: 2024-08-09 18:58:36 End: 2024-08-09 18:58:46. User 0 finished after 1 pages. [1 / 10]. Total token cost: 2.31k. Taking 10.16s
+Remaining users: 1, 2, 3, 4, 5, 6, 7, 8, 9
+Start: 2024-08-09 18:58:36 End: 2024-08-09 18:58:48. User 7 finished after 1 pages. [2 / 10]. Total token cost: 2.24k. Taking 12.31s
+Remaining users: 1, 2, 3, 4, 5, 6, 8, 9
+Start: 2024-08-09 18:58:36 End: 2024-08-09 18:58:50. User 3 finished after 1 pages. [3 / 10]. Total token cost: 2.23k. Taking 14.01s
+Remaining users: 1, 2, 4, 5, 6, 8, 9
+Start: 2024-08-09 18:58:36 End: 2024-08-09 18:58:52. User 5 finished after 1 pages. [4 / 10]. Total token cost: 2.31k. Taking 16.45s
+Remaining users: 1, 2, 4, 6, 8, 9
+Start: 2024-08-09 18:58:36 End: 2024-08-09 18:58:54. User 4 finished after 1 pages. [5 / 10]. Total token cost: 2.27k. Taking 18.38s
+Remaining users: 1, 2, 6, 8, 9
+Start: 2024-08-09 18:58:36 End: 2024-08-09 18:58:56. User 8 finished after 1 pages. [6 / 10]. Total token cost: 2.34k. Taking 20.15s
+Remaining users: 1, 2, 6, 9
+Start: 2024-08-09 18:58:36 End: 2024-08-09 18:58:58. User 9 finished after 1 pages. [7 / 10]. Total token cost: 2.2k. Taking 22.04s
+Remaining users: 1, 2, 6
+Start: 2024-08-09 18:58:36 End: 2024-08-09 18:59:00. User 1 finished after 1 pages. [8 / 10]. Total token cost: 2.26k. Taking 24.03s
+Remaining users: 2, 6
+Start: 2024-08-09 18:58:36 End: 2024-08-09 18:59:03. User 2 finished after 1 pages. [9 / 10]. Total token cost: 2.29k. Taking 26.87s
+Remaining users: 6
+Start: 2024-08-09 18:58:36 End: 2024-08-09 18:59:05. User 6 finished after 1 pages. [10 / 10]. Total token cost: 2.48k. Taking 28.9s
+Remaining users: 

@@ -1,0 +1,11 @@
+Finished time: 2024-08-09 19:00:23
+Total simulation time: 29.94s
+n_avatars: 10
+Average recall: 0.0
+Average presion: 0.0
+Total k tokens: 22.21k tokens
+Total cost: 0.04 
+Maximum exit page: 1
+Overall click rate: 0.3
+Average number of likes: 0.5
+Average exit page: 1.0

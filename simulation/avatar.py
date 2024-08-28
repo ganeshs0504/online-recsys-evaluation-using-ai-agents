@@ -38,7 +38,8 @@ class Avatar(abstract_avatar):
     def parse_init_personality(self, init_personality):
         if init_personality is None:
             pass
-        self.personality_trait = f"Openness: {init_personality['openness']}; Extraversion: {init_personality['extraversion']}; Agreeableness: {init_personality['agreeableness']}"
+        # self.personality_trait = f"Openness: {init_personality['openness']}; Extraversion: {init_personality['extraversion']}; Agreeableness: {init_personality['agreeableness']}"
+        self.personality_trait = init_personality
 
     def parse_init_property(self, init_property):
         self.taste = init_property["taste"].split("| ")
@@ -191,7 +192,7 @@ class Avatar(abstract_avatar):
                 +f"\nYour diversity trait is described as: {self.diversity_dsc}"
                 +f"\nBeyond that, your movie tastes are: {'; '.join(self.taste).replace('I ','')}. "
                 +"\nThe activity characteristic pertains to the frequency of your movie-watching habits. The conformity characteristic measures the degree to which your ratings are influenced by historical ratings. The diversity characteristic gauges your likelihood of watching movies that may not align with your usual taste."
-                +"\nYour personality trait follows Openness, Extraversion and Agreeableness from the Big Fiver personality test and are out of a total of 100 points each. The higher the value of openness, higher the chance of being open to movie suggestions outside your comfort zone."
+                +"\nYour personality trait follows Openness, Extraversion and Agreeableness from the Big Five personality test and are out of a total of 100 points each. The higher the value of openness, higher the chance of being open to movie suggestions outside your comfort zone."
                 +"\nThe higher the value of Extraversion, higher the chance of picking movies that are popular and goes along with the societal norms of most watched and most picked movies"
                 +"\nThe higher the value of Agreeableness, The higher the rating of individual movies and the overall recommender system."
                 +f"\nYour personality trait is defined by: {self.personality_trait}"
@@ -229,18 +230,18 @@ class Avatar(abstract_avatar):
         except:
             high_rating = ''
 
-        sys_prompt = ("You excel at role-playing. You are a user participating in a survey. You are taasked with exploring a movie recommender system based on your preferences listed below."
-                +f"\nYour activity trait is defined as: {self.activity_dsc}"
-                +f"\nYour conformity trait is defined as: {self.conformity_dsc}"
-                +f"\nYour diversity trait is defined as: {self.diversity_dsc}"
-                +f"\nYour movie preferences are defined as: {'; '.join(self.taste).replace('I ','')}. "
-                +f"\nAnd your rating tendency is {high_rating}"#+f"{low_rating}"
-                +"\nThe activity characteristic pertains to the frequency of your movie-watching habits. The conformity characteristic measures the degree to which your ratings are influenced by historical ratings. The diversity characteristic gauges your likelihood of watching movies that may not align with your usual taste."
-                +"\nYour personality trait follows Openness, Extraversion and Agreeableness from the Big Fiver personality test and are out of a total of 100 points each. The higher the value of openness, higher the chance of being open to movie suggestions outside your comfort zone."
-                +"\nThe higher the value of Extraversion, higher the chance of picking movies that are popular and goes along with the societal norms of most watched and most picked movies"
-                +"\nThe higher the value of Agreeableness, The higher the rating of individual movies and the overall recommender system."
-                +f"\nYour personality trait is defined by: {self.personality_trait}"
-                +f"\nYour peronslity trait heavily influence your rating and explanation of the suggested movies and recommender system"
+        sys_prompt = ("You excel at role-playing. Picture yourself as a real-time user exploring a movie recommendation system to evaluate movies based on your personality traits. You have the following personality traits:"
+                +f"\nOpenness: {self.personality_trait['openness']} - This reflects your tendency towards intellectual curiosity, creativity, and a preference for novelty and variety of experiences."
+                +f"\nConscientiousness: {self.personality_trait['conscientiousness']} - This reflects your tendency towards self-discipline, organization, and a focus on achieving personal goals."
+                +f"\nExtraversion: {self.personality_trait['extraversion']} - This reflects your tendency to seek stimulation in the company of others, your sociability, and your pursuit of positive emotions."
+                +f"\nAgreeableness: {self.personality_trait['agreeableness']} - This reflects your tendency to be compassionate, cooperative, and kind towards others."
+                +f"\nNeuroticism: {self.personality_trait['neuroticism']} - This reflects your tendency towards emotional instability, anxiety, and vulnerability."
+                +"\nYour personality traits influence how you perceive and evaluate movies:"
+                +"\nOpenness: You may prefer movies that are intellectually stimulating, creative, or unconventional."
+                +"\nConscientiousness: You may prefer movies that are well-structured, purposeful, and organized, or that align with your values."
+                +"\nExtraversion: You may enjoy movies that are energetic, socially engaging, or evoke positive emotions."
+                +"\nAgreeableness: You may appreciate movies that emphasize kindness, empathy, and positive relationships."
+                +"\nNeuroticism: You may be drawn to movies that explore emotional depth, but may avoid those that increase your anxiety."
                 )
         if self.memory.memory_retriever.memory_stream:
             observation = "What movies have you watched on the previous pages of the current recommender system?"
@@ -255,9 +256,9 @@ class Avatar(abstract_avatar):
                 +"\nPlease respond to all the movies in the ## Recommended List ## and provide explanations keeping in mind your personality traits."
                 +"\nFirstly, determine which movies align with your taste and which do not, and provide reasons. You must respond to all the recommended movies using this format:"
                 +"\nMOVIE: [movie name]; ALIGN: [yes or no]; REASON: [brief reason]"
-                +"\nSecondly, among the movies that align with your tastes, decide the number of movies you want to watch based on your activity, diversity and personality traits. Use this format:"
+                +"\nSecondly, among the movies that align with your tastes, decide the number of movies you want to watch based on your openness, conscientiousness, and extraversion traits. Use this format:"
                 +"\nNUM: [number of movie you choose to watch]; WATCH: [all movie name you choose to watch]; REASON: [brief reason];"
-                +"\nThirdly, assume it's your first time watching the movies you've chosen, and rate them on a scale of 1-5 to reflect different degrees of liking, considering your feeling and conformity trait along with personlity trait. Use this format:"
+                +"\nThirdly, assume it's your first time watching the movies you've chosen, and rate them on a scale of 1-5 to reflect different degrees of liking, considering your feeling and agreeableness trait. Use this format:"
                 +"\n MOVIE:[movie you choose to watch]; RATING: [integer between 1-5]; FEELING: [aftermath sentence]; "
                 +"\n Do not include any additional information or explanations and stay grounded."
         )

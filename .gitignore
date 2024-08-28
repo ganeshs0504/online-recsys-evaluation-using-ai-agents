@@ -135,8 +135,9 @@ logs/
 # statistic.py
 
 recommenders/weights/
-storage/
-datasets/
+datasets/ml-1m/raw_data
+storage/ml-1m/LightGCN/lgn_1000_5_4_1009
+storage/ml-1m/MF/mf_100_5_4
 
 recommenders/wandb/
 wandb/
